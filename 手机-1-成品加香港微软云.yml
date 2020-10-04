@@ -1,0 +1,3698 @@
+﻿port: 7890
+socks-port: 7891
+allow-lan: false
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: 🇭🇰 微软云香港1(欢迎订阅Youtube顺丰资源)
+    server: 120.232.154.249
+    port: 101
+    type: ss
+    cipher: aes-128-gcm
+    password: AAO09Yh6
+    _index: 0
+  - name: 🇭🇰 微软云香港2(欢迎订阅Youtube顺丰资源)
+    server: 120.232.154.249
+    port: 102
+    type: ss
+    cipher: aes-128-gcm
+    password: Hn7tRsw
+  - name: 🇺🇸 US_655
+    server: 154.16.168.186
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_656
+    server: 172.93.153.150
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_657
+    server: 148.72.174.46
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_658
+    server: 192.145.37.8
+    port: 9014
+    type: ss
+    country: 🇺🇸 US
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_659
+    server: 154.16.168.186
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_660
+    server: 45.43.19.76
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_661
+    server: 148.72.174.48
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_662
+    server: 107.181.166.83
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_663
+    server: 209.58.128.50
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_664
+    server: 198.8.80.85
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_665
+    server: 199.229.250.163
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_666
+    server: 172.98.87.35
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_667
+    server: 199.58.187.69
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_668
+    server: 198.147.22.195
+    port: 34651
+    type: ss
+    country: 🇺🇸 US
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_669
+    server: 192.145.37.68
+    port: 9079
+    type: ss
+    country: 🇺🇸 US
+    password: TPqX8edgbAURcAMb
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_670
+    server: 45.82.255.179
+    port: 9007
+    type: ss
+    country: 🇺🇸 US
+    password: kSPmvwdFzGMMW5pY
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_671
+    server: 45.82.255.178
+    port: 9007
+    type: ss
+    country: 🇺🇸 US
+    password: kSPmvwdFzGMMW5pY
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_672
+    server: 213.59.119.7
+    port: 9014
+    type: ss
+    country: 🇺🇸 US
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_673
+    server: 89.187.178.94
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_674
+    server: 35.237.80.204
+    port: 22356
+    type: ss
+    country: 🇺🇸 US
+    password: 4cbc1f4926f1
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_675
+    server: 45.82.255.178
+    port: 9093
+    type: ss
+    country: 🇺🇸 US
+    password: wfLC2y7rzZyCmuyt
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_676
+    server: 84.17.35.93
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_677
+    server: 45.79.90.66
+    port: 8099
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_678
+    server: 185.242.5.211
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_679
+    server: 23.105.160.138
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_680
+    server: 184.170.250.152
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_681
+    server: 45.82.255.178
+    port: 9019
+    type: ss
+    country: 🇺🇸 US
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_682
+    server: 45.82.255.176
+    port: 9019
+    type: ss
+    country: 🇺🇸 US
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_683
+    server: 89.187.178.94
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_684
+    server: 104.148.30.87
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_685
+    server: 104.200.131.170
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_686
+    server: 107.181.166.39
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_687
+    server: 45.151.175.127
+    port: 80
+    type: ss
+    country: 🇺🇸 US
+    password: jik198863
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_688
+    server: 104.237.154.204
+    port: 8097
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_689
+    server: 104.237.154.204
+    port: 8099
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_690
+    server: 45.33.104.162
+    port: 8097
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_691
+    server: 104.244.208.213
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_692
+    server: 69.30.201.82
+    port: 8097
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_693
+    server: 184.170.250.152
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_694
+    server: 192.154.253.67
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_695
+    server: 198.147.22.167
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_696
+    server: 45.33.104.162
+    port: 8099
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_697
+    server: 172.93.153.150
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_698
+    server: 213.59.119.7
+    port: 9020
+    type: ss
+    country: 🇺🇸 US
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_699
+    server: 213.59.119.2
+    port: 9020
+    type: ss
+    country: 🇺🇸 US
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_700
+    server: 198.8.80.227
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_701
+    server: 23.105.160.138
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_702
+    server: 66.115.177.133
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_703
+    server: 66.115.175.47
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_704
+    server: 38.95.110.71
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_705
+    server: 45.82.255.176
+    port: 9014
+    type: ss
+    country: 🇺🇸 US
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_706
+    server: 198.255.78.36
+    port: 8099
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_707
+    server: 45.82.255.179
+    port: 9020
+    type: ss
+    country: 🇺🇸 US
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_708
+    server: 45.79.90.66
+    port: 8097
+    type: ss
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_709
+    server: 66.115.177.133
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_710
+    server: 89.187.178.94
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_711
+    server: 198.8.80.227
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_712
+    server: 192.154.253.67
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_713
+    server: 184.170.250.152
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_714
+    server: 174.128.245.149
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_715
+    server: 185.242.5.211
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_716
+    server: 192.145.37.68
+    port: 9019
+    type: ss
+    country: 🇺🇸 US
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_717
+    server: 2.56.175.240
+    port: 9050
+    type: ss
+    country: 🇺🇸 US
+    password: FG5ddLsMPbV5CutE
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_718
+    server: 213.59.119.7
+    port: 9050
+    type: ss
+    country: 🇺🇸 US
+    password: FG5ddLsMPbV5CutE
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_719
+    server: 23.105.160.138
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_720
+    server: 192.154.255.54
+    port: 34007
+    type: ss
+    country: 🇺🇸 US
+    password: Ant36ph4AX8fHx59fUTLxMqq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_721
+    server: 198.147.22.167
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_722
+    server: 104.244.208.213
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_723
+    server: 213.59.119.2
+    port: 9050
+    type: ss
+    country: 🇺🇸 US
+    password: FG5ddLsMPbV5CutE
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_724
+    server: 107.191.43.194
+    port: 2019
+    type: ss
+    country: 🇺🇸 US
+    password: Life!sAwesome
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_725
+    server: 45.82.255.18
+    port: 9093
+    type: ss
+    country: 🇺🇸 US
+    password: wfLC2y7rzZyCmuyt
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_726
+    server: 45.82.255.217
+    port: 9079
+    type: ss
+    country: 🇺🇸 US
+    password: TPqX8edgbAURcAMb
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_727
+    server: 45.82.255.175
+    port: 9079
+    type: ss
+    country: 🇺🇸 US
+    password: TPqX8edgbAURcAMb
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_728
+    server: 213.59.119.7
+    port: 9079
+    type: ss
+    country: 🇺🇸 US
+    password: TPqX8edgbAURcAMb
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_729
+    server: 213.59.119.7
+    port: 9007
+    type: ss
+    country: 🇺🇸 US
+    password: kSPmvwdFzGMMW5pY
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_730
+    server: 104.148.30.87
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_731
+    server: 209.141.62.129
+    port: 29993
+    type: ss
+    country: 🇺🇸 US
+    password: t.cn/EGJIyrl
+    cipher: xchacha20-ietf-poly1305
+    plugin: obfs
+    plugin-opts:
+      host: data.video.qiyi.com
+      mode: http
+  - name: 🇺🇸 US_732
+    server: 198.52.125.212
+    port: 8086
+    type: ss
+    country: 🇺🇸 US
+    password: t.me/SSRSUB
+    cipher: xchacha20-ietf-poly1305
+    plugin: obfs
+    plugin-opts:
+      host: data.video.qiyi.com
+      mode: http
+  - name: 🇺🇸 US_733
+    server: 66.115.177.133
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_734
+    server: 104.148.30.87
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_735
+    server: 45.82.255.178
+    port: 9014
+    type: ss
+    country: 🇺🇸 US
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_736
+    server: 104.200.131.170
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_737
+    server: 104.244.208.213
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_738
+    server: 107.181.166.39
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_739
+    server: 137.220.51.71
+    port: 2019
+    type: ss
+    country: 🇺🇸 US
+    password: Life!sAwesome
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_740
+    server: 45.82.255.176
+    port: 9020
+    type: ss
+    country: 🇺🇸 US
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_741
+    server: 192.154.253.67
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_742
+    server: 107.181.166.39
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_743
+    server: 104.200.131.170
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_744
+    server: 198.8.80.227
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_745
+    server: 45.82.255.180
+    port: 9019
+    type: ss
+    country: 🇺🇸 US
+    password: GA9KzeEgvfxNrgmM
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_746
+    server: 45.82.255.217
+    port: 9020
+    type: ss
+    country: 🇺🇸 US
+    password: BNmAXXxAHYpTRdzu
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_747
+    server: 45.82.255.180
+    port: 9014
+    type: ss
+    country: 🇺🇸 US
+    password: KnJGad3FqTvjqbaX
+    cipher: aes-256-cfb
+  - name: 🇺🇸 US_748
+    server: 154.16.168.186
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_749
+    server: 66.115.175.47
+    port: 35938
+    type: ss
+    country: 🇺🇸 US
+    password: FeQQ8muhWnKXHeCQ3D8Zjyeq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_750
+    server: 174.128.245.149
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_751
+    server: 66.115.175.47
+    port: 36133
+    type: ss
+    country: 🇺🇸 US
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_752
+    server: 38.95.110.71
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_753
+    server: 198.147.22.167
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_754
+    server: 185.242.5.211
+    port: 34583
+    type: ss
+    country: 🇺🇸 US
+    password: hbWeaNJfjeP6GkT7jp6CSSx8
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_755
+    server: 45.55.2.232
+    port: 14293
+    type: ssr
+    country: 🇺🇸 US
+    password: 2170f8
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_756
+    server: 45.33.104.162
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_757
+    server: 45.33.104.162
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_758
+    server: 209.141.62.35
+    port: 8850
+    type: ssr
+    country: 🇺🇸 US
+    password: Memory
+    cipher: aes-256-cfb
+    protocol: auth_aes128_md5
+    obfs: http_simple
+  - name: 🇺🇸 US_759
+    server: 104.237.154.204
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_760
+    server: 192.240.123.26
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_761
+    server: 45.79.90.66
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_762
+    server: 104.237.154.204
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_763
+    server: 192.240.123.26
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_764
+    server: 107.148.209.230
+    port: 8230
+    type: ssr
+    country: 🇺🇸 US
+    password: passinfo123
+    cipher: rc4-md5
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_765
+    server: 107.148.209.231
+    port: 8331
+    type: ssr
+    country: 🇺🇸 US
+    password: passinfo123
+    cipher: rc4-md5
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_766
+    server: 104.233.233.110
+    port: 8110
+    type: ssr
+    country: 🇺🇸 US
+    password: passinfo123
+    cipher: rc4-md5
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_767
+    server: 107.148.215.140
+    port: 8240
+    type: ssr
+    country: 🇺🇸 US
+    password: passinfo123
+    cipher: rc4-md5
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_768
+    server: 207.246.108.11
+    port: 23156
+    type: ssr
+    country: 🇺🇸 US
+    password: free-ssr.xyz
+    cipher: aes-256-cfb
+    protocol: auth_aes128_md5
+    obfs: tls1.2_ticket_auth
+  - name: 🇺🇸 US_769
+    server: 107.148.209.40
+    port: 8140
+    type: ssr
+    country: 🇺🇸 US
+    password: passinfo123
+    cipher: rc4-md5
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_770
+    server: 50.7.12.147
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_771
+    server: 69.36.182.52
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_772
+    server: 69.36.182.52
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_773
+    server: 104.237.154.204
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_774
+    server: 162.220.51.58
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_775
+    server: 104.237.154.204
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_776
+    server: 50.7.12.147
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_777
+    server: 45.33.104.162
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_778
+    server: 45.33.104.162
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_779
+    server: 45.79.90.66
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_780
+    server: 192.240.123.26
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_781
+    server: 45.79.90.66
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_782
+    server: 69.30.201.82
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_783
+    server: 162.220.51.58
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: plain
+  - name: 🇺🇸 US_784
+    server: 69.30.201.82
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_785
+    server: 69.30.201.82
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: t.me/SSRSUB
+    obfs: plain
+  - name: 🇺🇸 US_786
+    server: 192.240.123.26
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_787
+    server: 69.30.201.82
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_788
+    server: 198.255.78.36
+    port: 8099
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_789
+    server: 69.30.201.82
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_790
+    server: 45.79.90.66
+    port: 8097
+    type: ssr
+    country: 🇺🇸 US
+    password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+    cipher: aes-256-cfb
+    protocol: origin
+    protocol_param: WWW.YOUNEED.WIN
+    obfs: plain
+    obfs_param: WWW.YOUNEED.WIN
+  - name: 🇺🇸 US_791
+    server: 158.247.194.71
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6bc6c549-53a2-36aa-813f-a7a25a700020
+    alterId: 1
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /panel
+    ws-headers:
+      HOST: s26.snode.xyz
+    skip-cert-verify: true
+    servername: s26.snode.xyz
+  - name: 🇺🇸 US_792
+    server: 158.247.195.108
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6bc6c549-53a2-36aa-813f-a7a25a700020
+    alterId: 1
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /panel
+    ws-headers:
+      HOST: s29.snode.xyz
+    skip-cert-verify: true
+    servername: s29.snode.xyz
+  - name: 🇺🇸 US_793
+    server: 104.156.252.85
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 43fcc534-fb74-11ea-a865-560002fa5177
+    alterId: 46
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /vzZIoGVs/
+    ws-headers:
+      HOST: milkgogo.tk
+    skip-cert-verify: true
+    servername: milkgogo.tk
+  - name: 🇺🇸 US_794
+    server: 45.77.68.86
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 08d3e6c8-fb19-11ea-a33d-560002fa2844
+    alterId: 46
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /hH6MgIVe/
+    ws-headers:
+      HOST: pampersvk.tk
+    skip-cert-verify: true
+    servername: pampersvk.tk
+  - name: 🇺🇸 US_795
+    server: 104.238.153.37
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 489109d6-fb18-11ea-a252-560002fa27ee
+    alterId: 46
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /DpHC3BJw/
+    ws-headers:
+      HOST: milkgogo.cf
+    skip-cert-verify: true
+    servername: milkgogo.cf
+  - name: 🇺🇸 US_796
+    server: 104.19.59.164
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: yygq1.lvye.workers.dev
+    skip-cert-verify: true
+    servername: yygq1.lvye.workers.dev
+  - name: 🇺🇸 US_797
+    server: 104.19.59.144
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: yygq2.lvye.workers.dev
+    skip-cert-verify: true
+    servername: yygq2.lvye.workers.dev
+  - name: 🇺🇸 US_798
+    server: 104.19.59.88
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: yygq3.lvye.workers.dev
+    skip-cert-verify: true
+    servername: yygq3.lvye.workers.dev
+  - name: 🇺🇸 US_799
+    server: 104.19.59.108
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: yygq5.lvye.workers.dev
+    skip-cert-verify: true
+    servername: yygq5.lvye.workers.dev
+  - name: 🇺🇸 US_800
+    server: 104.19.59.100
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ad806487-2d26-4636-98b6-ab85cc8521f7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: yygq4.lvye.workers.dev
+    skip-cert-verify: true
+    servername: yygq4.lvye.workers.dev
+  - name: 🇺🇸 US_801
+    server: 107.148.199.233
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: a9749fe7-2f49-4a9a-84a0-a441368ac378
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.43725518.xyz
+    skip-cert-verify: true
+    servername: www.43725518.xyz
+  - name: 🇺🇸 US_802
+    server: 142.4.108.227
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 47d03581-c5c9-4764-bbd6-d4e3733b2f7a
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.085298926.xyz
+    skip-cert-verify: true
+    servername: www.085298926.xyz
+  - name: 🇺🇸 US_803
+    server: 65.49.219.186
+    port: 28333
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 7c28bd66-d0bb-4d25-8faf-9856a0673caa
+    alterId: 0
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /
+    skip-cert-verify: true
+  - name: 🇺🇸 US_804
+    server: 23.95.220.171
+    port: 59204
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 9797347a-5a01-4bb6-bf15-38a16e1f0360
+    alterId: 233
+    cipher: auto
+    network: tcp
+    http-opts: {}
+    ws-path: /
+    skip-cert-verify: true
+  - name: 🇺🇸 US_805
+    server: 207.246.108.11
+    port: 54675
+    type: vmess
+    country: 🇺🇸 US
+    uuid: d696cf0e-cfec-4198-a0e5-333f1943a2b1
+    alterId: 0
+    cipher: auto
+    network: tcp
+    http-opts: {}
+    ws-path: /
+    skip-cert-verify: true
+  - name: 🇺🇸 US_806
+    server: 158.247.195.37
+    port: 34581
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 36d3b422-9d4e-4e16-a33e-d89f574c2c22
+    alterId: 0
+    cipher: auto
+    network: tcp
+    http-opts: {}
+    ws-path: /
+    skip-cert-verify: true
+  - name: 🇺🇸 US_807
+    server: 167.71.183.100
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 10258497-cd7c-4e2c-a3f1-8b0821376ccf
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /v2ray
+    skip-cert-verify: true
+  - name: 🇺🇸 US_808
+    server: 99.83.135.85
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_809
+    server: 158.247.195.108
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 09e10c5d-4098-38c5-84d6-e2581ebb944c
+    alterId: 1
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /panel
+    ws-headers:
+      HOST: s29.snode.xyz
+    skip-cert-verify: true
+    servername: s29.snode.xyz
+  - name: 🇺🇸 US_810
+    server: 13.248.136.6
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_811
+    server: 99.83.248.140
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_812
+    server: 142.4.120.9
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 7b0f8819-88f1-4a6b-9376-da9d8fb066c9
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.48102.xyz
+    skip-cert-verify: true
+    servername: www.48102.xyz
+  - name: 🇺🇸 US_813
+    server: 142.0.132.146
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: b5d7413b-d865-4723-962e-651f6c75bd6e
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.619840417.xyz
+    skip-cert-verify: true
+    servername: www.619840417.xyz
+  - name: 🇺🇸 US_814
+    server: 142.0.138.145
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 319f06f4-b75f-48c4-91b6-67409721c78d
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.056854472.xyz
+    skip-cert-verify: true
+    servername: www.056854472.xyz
+  - name: 🇺🇸 US_815
+    server: 107.148.199.235
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: a9749fe7-2f49-4a9a-84a0-a441368ac378
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.43725518.xyz
+    skip-cert-verify: true
+    servername: www.43725518.xyz
+  - name: 🇺🇸 US_816
+    server: 209.141.62.129
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: df1f9e20-0652-4447-8bf6-8c66435002e1
+    alterId: 233
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: v2-15.ssrsub.xyz
+    skip-cert-verify: true
+    servername: v2-15.ssrsub.xyz
+  - name: 🇺🇸 US_817
+    server: 199.180.102.200
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ab3589d3-061a-4e87-9717-dc6900d1caf9
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.94905374.xyz
+    skip-cert-verify: true
+    servername: www.94905374.xyz
+  - name: 🇺🇸 US_818
+    server: 142.4.108.81
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ac570aac-8979-43a4-ac6a-106c2037c5f8
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.015030944.xyz
+    skip-cert-verify: true
+    servername: www.015030944.xyz
+  - name: 🇺🇸 US_819
+    server: 142.4.108.228
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 47d03581-c5c9-4764-bbd6-d4e3733b2f7a
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.085298926.xyz
+    skip-cert-verify: true
+    servername: www.085298926.xyz
+  - name: 🇺🇸 US_820
+    server: 45.82.255.152
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: cf9d5659-4eb8-4c49-81c4-27a7a2a1bc7b
+    alterId: 233
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /
+    ws-headers:
+      HOST: v2-16.ssrsub.xyz
+    skip-cert-verify: true
+    servername: v2-16.ssrsub.xyz
+  - name: 🇺🇸 US_821
+    server: 142.0.129.203
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: b1392b21-6230-4fa5-8445-96b3ccda1efc
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.687246360.xyz
+    skip-cert-verify: true
+    servername: www.687246360.xyz
+  - name: 🇺🇸 US_822
+    server: 192.74.234.99
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: f5eb96ec-c8e9-49e6-bc00-3eefbde2fbd4
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.539736300.xyz
+    skip-cert-verify: true
+    servername: www.539736300.xyz
+  - name: 🇺🇸 US_823
+    server: 165.22.34.149
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 2e199875-f955-45f1-8eee-d843edc3d618
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /v2ray
+    skip-cert-verify: true
+  - name: 🇺🇸 US_824
+    server: 104.248.50.91
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: e8f9f061-c481-4c4a-8e7a-68cd062c1bb9
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /v2ray
+    skip-cert-verify: true
+  - name: 🇺🇸 US_825
+    server: 107.148.199.234
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: a9749fe7-2f49-4a9a-84a0-a441368ac378
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.43725518.xyz
+    skip-cert-verify: true
+    servername: www.43725518.xyz
+  - name: 🇺🇸 US_826
+    server: 142.4.100.195
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: fb5c511f-fbd3-48d1-befc-ee79142c050d
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.44078477.xyz
+    skip-cert-verify: true
+    servername: www.44078477.xyz
+  - name: 🇺🇸 US_827
+    server: 142.4.126.130
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: c82b9fb2-fc4e-413b-b612-57f13255cf7c
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.64140222.xyz
+    skip-cert-verify: true
+    servername: www.64140222.xyz
+  - name: 🇺🇸 US_828
+    server: 23.224.69.5
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 962ca257-7797-4c17-a4ad-7a39d7795253
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.7586616.xyz
+    skip-cert-verify: true
+    servername: www.7586616.xyz
+  - name: 🇺🇸 US_829
+    server: 23.225.9.251
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: fd95594a-4a04-4f78-94b0-49405b9819aa
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.5307259.xyz
+    skip-cert-verify: true
+    servername: www.5307259.xyz
+  - name: 🇺🇸 US_830
+    server: 23.225.9.252
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: fd95594a-4a04-4f78-94b0-49405b9819aa
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.5307259.xyz
+    skip-cert-verify: true
+    servername: www.5307259.xyz
+  - name: 🇺🇸 US_831
+    server: 142.4.108.232
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 95ccdad7-0be4-4d76-a5bd-84aa2701ca08
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.693845241.xyz
+    skip-cert-verify: true
+    servername: www.693845241.xyz
+  - name: 🇺🇸 US_832
+    server: 204.44.95.126
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 831c52ab-59f6-4b5f-8f0a-7c1c44fdca1f
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /H3C
+    ws-headers:
+      HOST: m.pcsys.cn
+    skip-cert-verify: true
+    servername: m.pcsys.cn
+  - name: 🇺🇸 US_833
+    server: 142.4.108.229
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 47d03581-c5c9-4764-bbd6-d4e3733b2f7a
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.085298926.xyz
+    skip-cert-verify: true
+    servername: www.085298926.xyz
+  - name: 🇺🇸 US_834
+    server: 23.224.69.3
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 962ca257-7797-4c17-a4ad-7a39d7795253
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.7586616.xyz
+    skip-cert-verify: true
+    servername: www.7586616.xyz
+  - name: 🇺🇸 US_835
+    server: 137.175.35.12
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: d85bef33-ad63-42a4-b38a-374ccfafc2b7
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.4336705.xyz
+    skip-cert-verify: true
+    servername: www.4336705.xyz
+  - name: 🇺🇸 US_836
+    server: 198.98.60.223
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 767fd28b-1260-429a-baad-2cf2804829e5
+    alterId: 2
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /whalechoi
+    ws-headers:
+      HOST: ny.whalechoi.cn
+    skip-cert-verify: true
+    servername: ny.whalechoi.cn
+  - name: 🇺🇸 US_837
+    server: 172.247.199.243
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.01902367.xyz
+    skip-cert-verify: true
+    servername: www.01902367.xyz
+  - name: 🇺🇸 US_838
+    server: 23.224.82.171
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 5a7aff44-494d-46c4-9313-6378e2f71a13
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.0162296.xyz
+    skip-cert-verify: true
+    servername: www.0162296.xyz
+  - name: 🇺🇸 US_839
+    server: 23.225.57.202
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: e2266c08-96aa-4ccb-b918-163db05abffa
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.4198659.xyz
+    skip-cert-verify: true
+    servername: www.4198659.xyz
+  - name: 🇺🇸 US_840
+    server: 45.58.145.196
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 07f413fb-297d-48e2-be17-138d5b25e18c
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.78592.xyz
+    skip-cert-verify: true
+    servername: www.78592.xyz
+  - name: 🇺🇸 US_841
+    server: 172.247.198.122
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 55ab7be2-5e6c-4110-9f16-90d00bdd53a8
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.00689323.xyz
+    skip-cert-verify: true
+    servername: www.00689323.xyz
+  - name: 🇺🇸 US_842
+    server: 172.247.199.242
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.01902367.xyz
+    skip-cert-verify: true
+    servername: www.01902367.xyz
+  - name: 🇺🇸 US_843
+    server: 23.225.125.82
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 3786266d-788b-40b4-b795-f37ffcfdd95a
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.56626173.xyz
+    skip-cert-verify: true
+    servername: www.56626173.xyz
+  - name: 🇺🇸 US_844
+    server: 142.0.129.202
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: b1392b21-6230-4fa5-8445-96b3ccda1efc
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.687246360.xyz
+    skip-cert-verify: true
+    servername: www.687246360.xyz
+  - name: 🇺🇸 US_845
+    server: 104.233.240.249
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 16282caa-f501-45e9-a50e-e8d14f63296b
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.0363847.xyz
+    skip-cert-verify: true
+    servername: www.0363847.xyz
+  - name: 🇺🇸 US_846
+    server: 172.247.198.126
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 55ab7be2-5e6c-4110-9f16-90d00bdd53a8
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.00689323.xyz
+    skip-cert-verify: true
+    servername: www.00689323.xyz
+  - name: 🇺🇸 US_847
+    server: 75.2.99.184
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_848
+    server: 13.248.193.160
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_849
+    server: 75.2.61.153
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_850
+    server: 99.83.197.87
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_851
+    server: 76.223.10.176
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_852
+    server: 75.2.62.29
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_853
+    server: 142.4.100.194
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: fb5c511f-fbd3-48d1-befc-ee79142c050d
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.44078477.xyz
+    skip-cert-verify: true
+    servername: www.44078477.xyz
+  - name: 🇺🇸 US_854
+    server: 142.4.126.129
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: c82b9fb2-fc4e-413b-b612-57f13255cf7c
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.64140222.xyz
+    skip-cert-verify: true
+    servername: www.64140222.xyz
+  - name: 🇺🇸 US_855
+    server: 142.4.100.193
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: fb5c511f-fbd3-48d1-befc-ee79142c050d
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.44078477.xyz
+    skip-cert-verify: true
+    servername: www.44078477.xyz
+  - name: 🇺🇸 US_856
+    server: 23.225.57.205
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: e2266c08-96aa-4ccb-b918-163db05abffa
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.4198659.xyz
+    skip-cert-verify: true
+    servername: www.4198659.xyz
+  - name: 🇺🇸 US_857
+    server: 142.0.129.201
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: b1392b21-6230-4fa5-8445-96b3ccda1efc
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.687246360.xyz
+    skip-cert-verify: true
+    servername: www.687246360.xyz
+  - name: 🇺🇸 US_858
+    server: 23.225.159.51
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6d9a4d5f-8231-46b0-82b5-62a518e573ea
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.84223.xyz
+    skip-cert-verify: true
+    servername: www.84223.xyz
+  - name: 🇺🇸 US_859
+    server: 173.82.116.178
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 3dc860d4-2195-48da-bddf-68ba1bfb9577
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /h4c
+    ws-headers:
+      HOST: v.pcsys.cn
+    skip-cert-verify: true
+    servername: v.pcsys.cn
+  - name: 🇺🇸 US_860
+    server: 142.4.127.139
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.04333370.xyz
+    skip-cert-verify: true
+    servername: www.04333370.xyz
+  - name: 🇺🇸 US_861
+    server: 142.4.104.184
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.57174314.xyz
+    skip-cert-verify: true
+    servername: www.57174314.xyz
+  - name: 🇺🇸 US_862
+    server: 142.4.98.186
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 8eb8487a-12a0-4734-90e6-d49d1984cb32
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.670737677.xyz
+    skip-cert-verify: true
+    servername: www.670737677.xyz
+  - name: 🇺🇸 US_863
+    server: 199.180.102.199
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ab3589d3-061a-4e87-9717-dc6900d1caf9
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.94905374.xyz
+    skip-cert-verify: true
+    servername: www.94905374.xyz
+  - name: 🇺🇸 US_864
+    server: 199.180.102.201
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: ab3589d3-061a-4e87-9717-dc6900d1caf9
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.94905374.xyz
+    skip-cert-verify: true
+    servername: www.94905374.xyz
+  - name: 🇺🇸 US_865
+    server: 158.247.194.71
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 09e10c5d-4098-38c5-84d6-e2581ebb944c
+    alterId: 1
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /panel
+    ws-headers:
+      HOST: s26.snode.xyz
+    skip-cert-verify: true
+    servername: s26.snode.xyz
+  - name: 🇺🇸 US_866
+    server: 66.42.79.57
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: dffca3e2-f984-11ea-8d98-560002f987b2
+    alterId: 46
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /1cF8Nkui/
+    ws-headers:
+      HOST: chinahumanr.ml
+    skip-cert-verify: true
+    servername: chinahumanr.ml
+  - name: 🇺🇸 US_867
+    server: 104.233.224.48
+    port: 29485
+    type: vmess
+    country: 🇺🇸 US
+    uuid: b128dce4-f271-11ea-b52a-00163cb5e39b
+    alterId: 16
+    cipher: auto
+    network: tcp
+    http-opts: {}
+    ws-path: /
+    skip-cert-verify: true
+  - name: 🇺🇸 US_868
+    server: 142.4.126.131
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: c82b9fb2-fc4e-413b-b612-57f13255cf7c
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.64140222.xyz
+    skip-cert-verify: true
+    servername: www.64140222.xyz
+  - name: 🇺🇸 US_869
+    server: 99.83.203.89
+    port: 8080
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 6f5441dc-3f0e-3d8c-8bfa-a495cf7bb67c
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /index
+    ws-headers:
+      HOST: downloadwindowsupdate.com
+    skip-cert-verify: true
+    servername: downloadwindowsupdate.com
+  - name: 🇺🇸 US_870
+    server: 142.4.98.185
+    port: 443
+    type: vmess
+    country: 🇺🇸 US
+    uuid: 8eb8487a-12a0-4734-90e6-d49d1984cb32
+    alterId: 64
+    cipher: auto
+    tls: true
+    network: ws
+    http-opts: {}
+    ws-path: /footers
+    ws-headers:
+      HOST: www.670737677.xyz
+    skip-cert-verify: true
+    servername: www.670737677.xyz
+  - name: 🇺🇸 US_871
+    server: 99.83.152.112
+    port: 40200
+    type: vmess
+    country: 🇺🇸 US
+    uuid: a8497551-3407-3c9e-a126-7834101b5f6a
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /honda
+    ws-headers:
+      HOST: 99.83.152.112
+    skip-cert-verify: true
+    servername: 99.83.152.112
+  - name: 🇺🇸 US_872
+    server: 75.2.91.141
+    port: 40201
+    type: vmess
+    country: 🇺🇸 US
+    uuid: a8497551-3407-3c9e-a126-7834101b5f6a
+    alterId: 2
+    cipher: auto
+    network: ws
+    http-opts: {}
+    ws-path: /v2ray
+    ws-headers:
+      HOST: 75.2.91.141
+    skip-cert-verify: true
+    servername: 75.2.91.141
+  - name: 🇺🇸 US_873
+    server: tuoku8.tk
+    port: 443
+    type: trojan
+    country: 🇺🇸 US
+    password: ulXLeTET
+    skip-cert-verify: true
+    udp: true
+proxy-groups:
+  - name: 全局选择
+    proxies:
+      - 🇭🇰 微软云香港1(欢迎订阅Youtube顺丰资源)
+      - 🇭🇰 微软云香港2(欢迎订阅Youtube顺丰资源)
+      - 🇺🇸 US_655
+      - 🇺🇸 US_656
+      - 🇺🇸 US_657
+      - 🇺🇸 US_658
+      - 🇺🇸 US_659
+      - 🇺🇸 US_660
+      - 🇺🇸 US_661
+      - 🇺🇸 US_662
+      - 🇺🇸 US_663
+      - 🇺🇸 US_664
+      - 🇺🇸 US_665
+      - 🇺🇸 US_666
+      - 🇺🇸 US_667
+      - 🇺🇸 US_668
+      - 🇺🇸 US_669
+      - 🇺🇸 US_670
+      - 🇺🇸 US_671
+      - 🇺🇸 US_672
+      - 🇺🇸 US_673
+      - 🇺🇸 US_674
+      - 🇺🇸 US_675
+      - 🇺🇸 US_676
+      - 🇺🇸 US_677
+      - 🇺🇸 US_678
+      - 🇺🇸 US_679
+      - 🇺🇸 US_680
+      - 🇺🇸 US_681
+      - 🇺🇸 US_682
+      - 🇺🇸 US_683
+      - 🇺🇸 US_684
+      - 🇺🇸 US_685
+      - 🇺🇸 US_686
+      - 🇺🇸 US_687
+      - 🇺🇸 US_688
+      - 🇺🇸 US_689
+      - 🇺🇸 US_690
+      - 🇺🇸 US_691
+      - 🇺🇸 US_692
+      - 🇺🇸 US_693
+      - 🇺🇸 US_694
+      - 🇺🇸 US_695
+      - 🇺🇸 US_696
+      - 🇺🇸 US_697
+      - 🇺🇸 US_698
+      - 🇺🇸 US_699
+      - 🇺🇸 US_700
+      - 🇺🇸 US_701
+      - 🇺🇸 US_702
+      - 🇺🇸 US_703
+      - 🇺🇸 US_704
+      - 🇺🇸 US_705
+      - 🇺🇸 US_706
+      - 🇺🇸 US_707
+      - 🇺🇸 US_708
+      - 🇺🇸 US_709
+      - 🇺🇸 US_710
+      - 🇺🇸 US_711
+      - 🇺🇸 US_712
+      - 🇺🇸 US_713
+      - 🇺🇸 US_714
+      - 🇺🇸 US_715
+      - 🇺🇸 US_716
+      - 🇺🇸 US_717
+      - 🇺🇸 US_718
+      - 🇺🇸 US_719
+      - 🇺🇸 US_720
+      - 🇺🇸 US_721
+      - 🇺🇸 US_722
+      - 🇺🇸 US_723
+      - 🇺🇸 US_724
+      - 🇺🇸 US_725
+      - 🇺🇸 US_726
+      - 🇺🇸 US_727
+      - 🇺🇸 US_728
+      - 🇺🇸 US_729
+      - 🇺🇸 US_730
+      - 🇺🇸 US_731
+      - 🇺🇸 US_732
+      - 🇺🇸 US_733
+      - 🇺🇸 US_734
+      - 🇺🇸 US_735
+      - 🇺🇸 US_736
+      - 🇺🇸 US_737
+      - 🇺🇸 US_738
+      - 🇺🇸 US_739
+      - 🇺🇸 US_740
+      - 🇺🇸 US_741
+      - 🇺🇸 US_742
+      - 🇺🇸 US_743
+      - 🇺🇸 US_744
+      - 🇺🇸 US_745
+      - 🇺🇸 US_746
+      - 🇺🇸 US_747
+      - 🇺🇸 US_748
+      - 🇺🇸 US_749
+      - 🇺🇸 US_750
+      - 🇺🇸 US_751
+      - 🇺🇸 US_752
+      - 🇺🇸 US_753
+      - 🇺🇸 US_754
+      - 🇺🇸 US_755
+      - 🇺🇸 US_756
+      - 🇺🇸 US_757
+      - 🇺🇸 US_758
+      - 🇺🇸 US_759
+      - 🇺🇸 US_760
+      - 🇺🇸 US_761
+      - 🇺🇸 US_762
+      - 🇺🇸 US_763
+      - 🇺🇸 US_764
+      - 🇺🇸 US_765
+      - 🇺🇸 US_766
+      - 🇺🇸 US_767
+      - 🇺🇸 US_768
+      - 🇺🇸 US_769
+      - 🇺🇸 US_770
+      - 🇺🇸 US_771
+      - 🇺🇸 US_772
+      - 🇺🇸 US_773
+      - 🇺🇸 US_774
+      - 🇺🇸 US_775
+      - 🇺🇸 US_776
+      - 🇺🇸 US_777
+      - 🇺🇸 US_778
+      - 🇺🇸 US_779
+      - 🇺🇸 US_780
+      - 🇺🇸 US_781
+      - 🇺🇸 US_782
+      - 🇺🇸 US_783
+      - 🇺🇸 US_784
+      - 🇺🇸 US_785
+      - 🇺🇸 US_786
+      - 🇺🇸 US_787
+      - 🇺🇸 US_788
+      - 🇺🇸 US_789
+      - 🇺🇸 US_790
+      - 🇺🇸 US_791
+      - 🇺🇸 US_792
+      - 🇺🇸 US_793
+      - 🇺🇸 US_794
+      - 🇺🇸 US_795
+      - 🇺🇸 US_796
+      - 🇺🇸 US_797
+      - 🇺🇸 US_798
+      - 🇺🇸 US_799
+      - 🇺🇸 US_800
+      - 🇺🇸 US_801
+      - 🇺🇸 US_802
+      - 🇺🇸 US_803
+      - 🇺🇸 US_804
+      - 🇺🇸 US_805
+      - 🇺🇸 US_806
+      - 🇺🇸 US_807
+      - 🇺🇸 US_808
+      - 🇺🇸 US_809
+      - 🇺🇸 US_810
+      - 🇺🇸 US_811
+      - 🇺🇸 US_812
+      - 🇺🇸 US_813
+      - 🇺🇸 US_814
+      - 🇺🇸 US_815
+      - 🇺🇸 US_816
+      - 🇺🇸 US_817
+      - 🇺🇸 US_818
+      - 🇺🇸 US_819
+      - 🇺🇸 US_820
+      - 🇺🇸 US_821
+      - 🇺🇸 US_822
+      - 🇺🇸 US_823
+      - 🇺🇸 US_824
+      - 🇺🇸 US_825
+      - 🇺🇸 US_826
+      - 🇺🇸 US_827
+      - 🇺🇸 US_828
+      - 🇺🇸 US_829
+      - 🇺🇸 US_830
+      - 🇺🇸 US_831
+      - 🇺🇸 US_832
+      - 🇺🇸 US_833
+      - 🇺🇸 US_834
+      - 🇺🇸 US_835
+      - 🇺🇸 US_836
+      - 🇺🇸 US_837
+      - 🇺🇸 US_838
+      - 🇺🇸 US_839
+      - 🇺🇸 US_840
+      - 🇺🇸 US_841
+      - 🇺🇸 US_842
+      - 🇺🇸 US_843
+      - 🇺🇸 US_844
+      - 🇺🇸 US_845
+      - 🇺🇸 US_846
+      - 🇺🇸 US_847
+      - 🇺🇸 US_848
+      - 🇺🇸 US_849
+      - 🇺🇸 US_850
+      - 🇺🇸 US_851
+      - 🇺🇸 US_852
+      - 🇺🇸 US_853
+      - 🇺🇸 US_854
+      - 🇺🇸 US_855
+      - 🇺🇸 US_856
+      - 🇺🇸 US_857
+      - 🇺🇸 US_858
+      - 🇺🇸 US_859
+      - 🇺🇸 US_860
+      - 🇺🇸 US_861
+      - 🇺🇸 US_862
+      - 🇺🇸 US_863
+      - 🇺🇸 US_864
+      - 🇺🇸 US_865
+      - 🇺🇸 US_866
+      - 🇺🇸 US_867
+      - 🇺🇸 US_868
+      - 🇺🇸 US_869
+      - 🇺🇸 US_870
+      - 🇺🇸 US_871
+      - 🇺🇸 US_872
+      - 🇺🇸 US_873
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: "200"
+rules:
+  - DOMAIN-SUFFIX,smtp,DIRECT
+  - DOMAIN-KEYWORD,aria2,DIRECT
+  - DOMAIN-SUFFIX,ampproject.org,全局选择
+  - DOMAIN-SUFFIX,appspot.com,全局选择
+  - DOMAIN-SUFFIX,blogger.com,全局选择
+  - DOMAIN-SUFFIX,getoutline.org,全局选择
+  - DOMAIN-SUFFIX,gvt0.com,全局选择
+  - DOMAIN-SUFFIX,gvt1.com,全局选择
+  - DOMAIN-SUFFIX,gvt3.com,全局选择
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,全局选择
+  - DOMAIN-KEYWORD,google,全局选择
+  - DOMAIN-KEYWORD,blogspot,全局选择
+  - DOMAIN-SUFFIX,onedrive.live.com,全局选择
+  - DOMAIN-SUFFIX,xboxlive.com,全局选择
+  - DOMAIN-SUFFIX,cdninstagram.com,全局选择
+  - DOMAIN-SUFFIX,fb.com,全局选择
+  - DOMAIN-SUFFIX,fb.me,全局选择
+  - DOMAIN-SUFFIX,fbaddins.com,全局选择
+  - DOMAIN-SUFFIX,fbcdn.net,全局选择
+  - DOMAIN-SUFFIX,fbsbx.com,全局选择
+  - DOMAIN-SUFFIX,fbworkmail.com,全局选择
+  - DOMAIN-SUFFIX,instagram.com,全局选择
+  - DOMAIN-SUFFIX,m.me,全局选择
+  - DOMAIN-SUFFIX,messenger.com,全局选择
+  - DOMAIN-SUFFIX,oculus.com,全局选择
+  - DOMAIN-SUFFIX,oculuscdn.com,全局选择
+  - DOMAIN-SUFFIX,rocksdb.org,全局选择
+  - DOMAIN-SUFFIX,whatsapp.com,全局选择
+  - DOMAIN-SUFFIX,whatsapp.net,全局选择
+  - DOMAIN-KEYWORD,facebook,全局选择
+  - IP-CIDR,3.123.36.126/32,全局选择,
+  - IP-CIDR,35.157.215.84/32,全局选择,
+  - IP-CIDR,35.157.217.255/32,全局选择,
+  - IP-CIDR,52.58.209.134/32,全局选择,
+  - IP-CIDR,54.93.124.31/32,全局选择,
+  - IP-CIDR,54.162.243.80/32,全局选择,
+  - IP-CIDR,54.173.34.141/32,全局选择,
+  - IP-CIDR,54.235.23.242/32,全局选择,
+  - IP-CIDR,169.45.248.118/32,全局选择,
+  - DOMAIN-SUFFIX,pscp.tv,全局选择
+  - DOMAIN-SUFFIX,periscope.tv,全局选择
+  - DOMAIN-SUFFIX,t.co,全局选择
+  - DOMAIN-SUFFIX,twimg.co,全局选择
+  - DOMAIN-SUFFIX,twimg.com,全局选择
+  - DOMAIN-SUFFIX,twitpic.com,全局选择
+  - DOMAIN-SUFFIX,vine.co,全局选择
+  - DOMAIN-KEYWORD,twitter,全局选择
+  - DOMAIN-SUFFIX,t.me,全局选择
+  - DOMAIN-SUFFIX,tdesktop.com,全局选择
+  - DOMAIN-SUFFIX,telegra.ph,全局选择
+  - DOMAIN-SUFFIX,telegram.me,全局选择
+  - DOMAIN-SUFFIX,telegram.org,全局选择
+  - IP-CIDR,91.108.4.0/22,全局选择,
+  - IP-CIDR,91.108.8.0/22,全局选择,
+  - IP-CIDR,91.108.12.0/22,全局选择,
+  - IP-CIDR,91.108.16.0/22,全局选择,
+  - IP-CIDR,91.108.56.0/22,全局选择,
+  - IP-CIDR,149.154.160.0/20,全局选择,
+  - IP-CIDR6,2001:b28:f23d::/48,全局选择,
+  - IP-CIDR6,2001:b28:f23f::/48,全局选择,
+  - IP-CIDR6,2001:67c:4e8::/48,全局选择,
+  - DOMAIN-SUFFIX,line.me,全局选择
+  - DOMAIN-SUFFIX,line-apps.com,全局选择
+  - DOMAIN-SUFFIX,line-scdn.net,全局选择
+  - DOMAIN-SUFFIX,naver.jp,全局选择
+  - IP-CIDR,103.2.30.0/23,全局选择,
+  - IP-CIDR,125.209.208.0/20,全局选择,
+  - IP-CIDR,147.92.128.0/17,全局选择,
+  - IP-CIDR,203.104.144.0/21,全局选择,
+  - DOMAIN-SUFFIX,4shared.com,全局选择
+  - DOMAIN-SUFFIX,520cc.cc,全局选择
+  - DOMAIN-SUFFIX,881903.com,全局选择
+  - DOMAIN-SUFFIX,9cache.com,全局选择
+  - DOMAIN-SUFFIX,9gag.com,全局选择
+  - DOMAIN-SUFFIX,abc.com,全局选择
+  - DOMAIN-SUFFIX,abc.net.au,全局选择
+  - DOMAIN-SUFFIX,abebooks.com,全局选择
+  - DOMAIN-SUFFIX,amazon.co.jp,全局选择
+  - DOMAIN-SUFFIX,apigee.com,全局选择
+  - DOMAIN-SUFFIX,apk-dl.com,全局选择
+  - DOMAIN-SUFFIX,apkfind.com,全局选择
+  - DOMAIN-SUFFIX,apkmirror.com,全局选择
+  - DOMAIN-SUFFIX,apkmonk.com,全局选择
+  - DOMAIN-SUFFIX,apkpure.com,全局选择
+  - DOMAIN-SUFFIX,aptoide.com,全局选择
+  - DOMAIN-SUFFIX,archive.is,全局选择
+  - DOMAIN-SUFFIX,archive.org,全局选择
+  - DOMAIN-SUFFIX,arte.tv,全局选择
+  - DOMAIN-SUFFIX,artstation.com,全局选择
+  - DOMAIN-SUFFIX,arukas.io,全局选择
+  - DOMAIN-SUFFIX,ask.com,全局选择
+  - DOMAIN-SUFFIX,avg.com,全局选择
+  - DOMAIN-SUFFIX,avgle.com,全局选择
+  - DOMAIN-SUFFIX,badoo.com,全局选择
+  - DOMAIN-SUFFIX,bandwagonhost.com,全局选择
+  - DOMAIN-SUFFIX,bbc.com,全局选择
+  - DOMAIN-SUFFIX,behance.net,全局选择
+  - DOMAIN-SUFFIX,bibox.com,全局选择
+  - DOMAIN-SUFFIX,biggo.com.tw,全局选择
+  - DOMAIN-SUFFIX,binance.com,全局选择
+  - DOMAIN-SUFFIX,bitcointalk.org,全局选择
+  - DOMAIN-SUFFIX,bitfinex.com,全局选择
+  - DOMAIN-SUFFIX,bitmex.com,全局选择
+  - DOMAIN-SUFFIX,bit-z.com,全局选择
+  - DOMAIN-SUFFIX,bloglovin.com,全局选择
+  - DOMAIN-SUFFIX,bloomberg.cn,全局选择
+  - DOMAIN-SUFFIX,bloomberg.com,全局选择
+  - DOMAIN-SUFFIX,blubrry.com,全局选择
+  - DOMAIN-SUFFIX,book.com.tw,全局选择
+  - DOMAIN-SUFFIX,booklive.jp,全局选择
+  - DOMAIN-SUFFIX,books.com.tw,全局选择
+  - DOMAIN-SUFFIX,boslife.net,全局选择
+  - DOMAIN-SUFFIX,box.com,全局选择
+  - DOMAIN-SUFFIX,businessinsider.com,全局选择
+  - DOMAIN-SUFFIX,bwh1.net,全局选择
+  - DOMAIN-SUFFIX,castbox.fm,全局选择
+  - DOMAIN-SUFFIX,cbc.ca,全局选择
+  - DOMAIN-SUFFIX,cdw.com,全局选择
+  - DOMAIN-SUFFIX,change.org,全局选择
+  - DOMAIN-SUFFIX,channelnewsasia.com,全局选择
+  - DOMAIN-SUFFIX,ck101.com,全局选择
+  - DOMAIN-SUFFIX,clarionproject.org,全局选择
+  - DOMAIN-SUFFIX,clyp.it,全局选择
+  - DOMAIN-SUFFIX,cna.com.tw,全局选择
+  - DOMAIN-SUFFIX,comparitech.com,全局选择
+  - DOMAIN-SUFFIX,conoha.jp,全局选择
+  - DOMAIN-SUFFIX,crucial.com,全局选择
+  - DOMAIN-SUFFIX,cts.com.tw,全局选择
+  - DOMAIN-SUFFIX,cw.com.tw,全局选择
+  - DOMAIN-SUFFIX,cyberctm.com,全局选择
+  - DOMAIN-SUFFIX,dailymotion.com,全局选择
+  - DOMAIN-SUFFIX,dailyview.tw,全局选择
+  - DOMAIN-SUFFIX,daum.net,全局选择
+  - DOMAIN-SUFFIX,daumcdn.net,全局选择
+  - DOMAIN-SUFFIX,dcard.tw,全局选择
+  - DOMAIN-SUFFIX,deepdiscount.com,全局选择
+  - DOMAIN-SUFFIX,depositphotos.com,全局选择
+  - DOMAIN-SUFFIX,deviantart.com,全局选择
+  - DOMAIN-SUFFIX,disconnect.me,全局选择
+  - DOMAIN-SUFFIX,discordapp.com,全局选择
+  - DOMAIN-SUFFIX,discordapp.net,全局选择
+  - DOMAIN-SUFFIX,disqus.com,全局选择
+  - DOMAIN-SUFFIX,dlercloud.com,全局选择
+  - DOMAIN-SUFFIX,dns2go.com,全局选择
+  - DOMAIN-SUFFIX,dowjones.com,全局选择
+  - DOMAIN-SUFFIX,dropbox.com,全局选择
+  - DOMAIN-SUFFIX,dropboxusercontent.com,全局选择
+  - DOMAIN-SUFFIX,duckduckgo.com,全局选择
+  - DOMAIN-SUFFIX,dw.com,全局选择
+  - DOMAIN-SUFFIX,dynu.com,全局选择
+  - DOMAIN-SUFFIX,earthcam.com,全局选择
+  - DOMAIN-SUFFIX,ebookservice.tw,全局选择
+  - DOMAIN-SUFFIX,economist.com,全局选择
+  - DOMAIN-SUFFIX,edgecastcdn.net,全局选择
+  - DOMAIN-SUFFIX,edu,全局选择
+  - DOMAIN-SUFFIX,elpais.com,全局选择
+  - DOMAIN-SUFFIX,enanyang.my,全局选择
+  - DOMAIN-SUFFIX,encyclopedia.com,全局选择
+  - DOMAIN-SUFFIX,esoir.be,全局选择
+  - DOMAIN-SUFFIX,etherscan.io,全局选择
+  - DOMAIN-SUFFIX,euronews.com,全局选择
+  - DOMAIN-SUFFIX,evozi.com,全局选择
+  - DOMAIN-SUFFIX,feedly.com,全局选择
+  - DOMAIN-SUFFIX,firech.at,全局选择
+  - DOMAIN-SUFFIX,flickr.com,全局选择
+  - DOMAIN-SUFFIX,flitto.com,全局选择
+  - DOMAIN-SUFFIX,foreignpolicy.com,全局选择
+  - DOMAIN-SUFFIX,全局选择browser.org,全局选择
+  - DOMAIN-SUFFIX,全局选择wechat.com,全局选择
+  - DOMAIN-SUFFIX,全局选择weibo.com,全局选择
+  - DOMAIN-SUFFIX,friday.tw,全局选择
+  - DOMAIN-SUFFIX,ftchinese.com,全局选择
+  - DOMAIN-SUFFIX,ftimg.net,全局选择
+  - DOMAIN-SUFFIX,gate.io,全局选择
+  - DOMAIN-SUFFIX,getlantern.org,全局选择
+  - DOMAIN-SUFFIX,getsync.com,全局选择
+  - DOMAIN-SUFFIX,globalvoices.org,全局选择
+  - DOMAIN-SUFFIX,goo.ne.jp,全局选择
+  - DOMAIN-SUFFIX,goodreads.com,全局选择
+  - DOMAIN-SUFFIX,gov,全局选择
+  - DOMAIN-SUFFIX,gov.tw,全局选择
+  - DOMAIN-SUFFIX,greatfire.org,全局选择
+  - DOMAIN-SUFFIX,gumroad.com,全局选择
+  - DOMAIN-SUFFIX,hbg.com,全局选择
+  - DOMAIN-SUFFIX,heroku.com,全局选择
+  - DOMAIN-SUFFIX,hightail.com,全局选择
+  - DOMAIN-SUFFIX,hk01.com,全局选择
+  - DOMAIN-SUFFIX,hkbf.org,全局选择
+  - DOMAIN-SUFFIX,hkbookcity.com,全局选择
+  - DOMAIN-SUFFIX,hkej.com,全局选择
+  - DOMAIN-SUFFIX,hket.com,全局选择
+  - DOMAIN-SUFFIX,hkgolden.com,全局选择
+  - DOMAIN-SUFFIX,hootsuite.com,全局选择
+  - DOMAIN-SUFFIX,hudson.org,全局选择
+  - DOMAIN-SUFFIX,hyread.com.tw,全局选择
+  - DOMAIN-SUFFIX,ibtimes.com,全局选择
+  - DOMAIN-SUFFIX,i-cable.com,全局选择
+  - DOMAIN-SUFFIX,icij.org,全局选择
+  - DOMAIN-SUFFIX,icoco.com,全局选择
+  - DOMAIN-SUFFIX,imgur.com,全局选择
+  - DOMAIN-SUFFIX,initiummall.com,全局选择
+  - DOMAIN-SUFFIX,insecam.org,全局选择
+  - DOMAIN-SUFFIX,ipfs.io,全局选择
+  - DOMAIN-SUFFIX,issuu.com,全局选择
+  - DOMAIN-SUFFIX,istockphoto.com,全局选择
+  - DOMAIN-SUFFIX,japantimes.co.jp,全局选择
+  - DOMAIN-SUFFIX,jiji.com,全局选择
+  - DOMAIN-SUFFIX,jinx.com,全局选择
+  - DOMAIN-SUFFIX,jkforum.net,全局选择
+  - DOMAIN-SUFFIX,joinmastodon.org,全局选择
+  - DOMAIN-SUFFIX,justmysocks.net,全局选择
+  - DOMAIN-SUFFIX,justpaste.it,全局选择
+  - DOMAIN-SUFFIX,kakao.com,全局选择
+  - DOMAIN-SUFFIX,kakaocorp.com,全局选择
+  - DOMAIN-SUFFIX,kik.com,全局选择
+  - DOMAIN-SUFFIX,kobo.com,全局选择
+  - DOMAIN-SUFFIX,kobobooks.com,全局选择
+  - DOMAIN-SUFFIX,kodingen.com,全局选择
+  - DOMAIN-SUFFIX,lemonde.fr,全局选择
+  - DOMAIN-SUFFIX,lepoint.fr,全局选择
+  - DOMAIN-SUFFIX,lihkg.com,全局选择
+  - DOMAIN-SUFFIX,listennotes.com,全局选择
+  - DOMAIN-SUFFIX,livestream.com,全局选择
+  - DOMAIN-SUFFIX,logmein.com,全局选择
+  - DOMAIN-SUFFIX,mail.ru,全局选择
+  - DOMAIN-SUFFIX,mailchimp.com,全局选择
+  - DOMAIN-SUFFIX,marc.info,全局选择
+  - DOMAIN-SUFFIX,matters.news,全局选择
+  - DOMAIN-SUFFIX,maying.co,全局选择
+  - DOMAIN-SUFFIX,medium.com,全局选择
+  - DOMAIN-SUFFIX,mega.nz,全局选择
+  - DOMAIN-SUFFIX,mil,全局选择
+  - DOMAIN-SUFFIX,mingpao.com,全局选择
+  - DOMAIN-SUFFIX,mobile01.com,全局选择
+  - DOMAIN-SUFFIX,myspace.com,全局选择
+  - DOMAIN-SUFFIX,myspacecdn.com,全局选择
+  - DOMAIN-SUFFIX,nanyang.com,全局选择
+  - DOMAIN-SUFFIX,naver.com,全局选择
+  - DOMAIN-SUFFIX,neowin.net,全局选择
+  - DOMAIN-SUFFIX,newstapa.org,全局选择
+  - DOMAIN-SUFFIX,nexitally.com,全局选择
+  - DOMAIN-SUFFIX,nhk.or.jp,全局选择
+  - DOMAIN-SUFFIX,nicovideo.jp,全局选择
+  - DOMAIN-SUFFIX,nii.ac.jp,全局选择
+  - DOMAIN-SUFFIX,nikkei.com,全局选择
+  - DOMAIN-SUFFIX,nofile.io,全局选择
+  - DOMAIN-SUFFIX,now.com,全局选择
+  - DOMAIN-SUFFIX,nrk.no,全局选择
+  - DOMAIN-SUFFIX,nyt.com,全局选择
+  - DOMAIN-SUFFIX,nytchina.com,全局选择
+  - DOMAIN-SUFFIX,nytcn.me,全局选择
+  - DOMAIN-SUFFIX,nytco.com,全局选择
+  - DOMAIN-SUFFIX,nytimes.com,全局选择
+  - DOMAIN-SUFFIX,nytimg.com,全局选择
+  - DOMAIN-SUFFIX,nytlog.com,全局选择
+  - DOMAIN-SUFFIX,nytstyle.com,全局选择
+  - DOMAIN-SUFFIX,ok.ru,全局选择
+  - DOMAIN-SUFFIX,okex.com,全局选择
+  - DOMAIN-SUFFIX,on.cc,全局选择
+  - DOMAIN-SUFFIX,orientaldaily.com.my,全局选择
+  - DOMAIN-SUFFIX,overcast.fm,全局选择
+  - DOMAIN-SUFFIX,paltalk.com,全局选择
+  - DOMAIN-SUFFIX,pao-pao.net,全局选择
+  - DOMAIN-SUFFIX,parsevideo.com,全局选择
+  - DOMAIN-SUFFIX,pbxes.com,全局选择
+  - DOMAIN-SUFFIX,pcdvd.com.tw,全局选择
+  - DOMAIN-SUFFIX,pchome.com.tw,全局选择
+  - DOMAIN-SUFFIX,pcloud.com,全局选择
+  - DOMAIN-SUFFIX,picacomic.com,全局选择
+  - DOMAIN-SUFFIX,pinimg.com,全局选择
+  - DOMAIN-SUFFIX,pixiv.net,全局选择
+  - DOMAIN-SUFFIX,player.fm,全局选择
+  - DOMAIN-SUFFIX,plurk.com,全局选择
+  - DOMAIN-SUFFIX,po18.tw,全局选择
+  - DOMAIN-SUFFIX,potato.im,全局选择
+  - DOMAIN-SUFFIX,potatso.com,全局选择
+  - DOMAIN-SUFFIX,prism-break.org,全局选择
+  - DOMAIN-SUFFIX,proxifier.com,全局选择
+  - DOMAIN-SUFFIX,pt.im,全局选择
+  - DOMAIN-SUFFIX,pts.org.tw,全局选择
+  - DOMAIN-SUFFIX,pubu.com.tw,全局选择
+  - DOMAIN-SUFFIX,pubu.tw,全局选择
+  - DOMAIN-SUFFIX,pureapk.com,全局选择
+  - DOMAIN-SUFFIX,quora.com,全局选择
+  - DOMAIN-SUFFIX,quoracdn.net,全局选择
+  - DOMAIN-SUFFIX,rakuten.co.jp,全局选择
+  - DOMAIN-SUFFIX,readingtimes.com.tw,全局选择
+  - DOMAIN-SUFFIX,readmoo.com,全局选择
+  - DOMAIN-SUFFIX,redbubble.com,全局选择
+  - DOMAIN-SUFFIX,reddit.com,全局选择
+  - DOMAIN-SUFFIX,redditmedia.com,全局选择
+  - DOMAIN-SUFFIX,resilio.com,全局选择
+  - DOMAIN-SUFFIX,reuters.com,全局选择
+  - DOMAIN-SUFFIX,reutersmedia.net,全局选择
+  - DOMAIN-SUFFIX,rfi.fr,全局选择
+  - DOMAIN-SUFFIX,rixcloud.com,全局选择
+  - DOMAIN-SUFFIX,roadshow.hk,全局选择
+  - DOMAIN-SUFFIX,scmp.com,全局选择
+  - DOMAIN-SUFFIX,scribd.com,全局选择
+  - DOMAIN-SUFFIX,seatguru.com,全局选择
+  - DOMAIN-SUFFIX,shadowsocks.org,全局选择
+  - DOMAIN-SUFFIX,shopee.tw,全局选择
+  - DOMAIN-SUFFIX,slideshare.net,全局选择
+  - DOMAIN-SUFFIX,softfamous.com,全局选择
+  - DOMAIN-SUFFIX,soundcloud.com,全局选择
+  - DOMAIN-SUFFIX,ssrcloud.org,全局选择
+  - DOMAIN-SUFFIX,startpage.com,全局选择
+  - DOMAIN-SUFFIX,steamcommunity.com,全局选择
+  - DOMAIN-SUFFIX,steemit.com,全局选择
+  - DOMAIN-SUFFIX,steemitwallet.com,全局选择
+  - DOMAIN-SUFFIX,t66y.com,全局选择
+  - DOMAIN-SUFFIX,tapatalk.com,全局选择
+  - DOMAIN-SUFFIX,teco-hk.org,全局选择
+  - DOMAIN-SUFFIX,teco-mo.org,全局选择
+  - DOMAIN-SUFFIX,teddysun.com,全局选择
+  - DOMAIN-SUFFIX,textnow.me,全局选择
+  - DOMAIN-SUFFIX,theguardian.com,全局选择
+  - DOMAIN-SUFFIX,theinitium.com,全局选择
+  - DOMAIN-SUFFIX,thetvdb.com,全局选择
+  - DOMAIN-SUFFIX,tineye.com,全局选择
+  - DOMAIN-SUFFIX,torproject.org,全局选择
+  - DOMAIN-SUFFIX,tumblr.com,全局选择
+  - DOMAIN-SUFFIX,turbobit.net,全局选择
+  - DOMAIN-SUFFIX,tutanota.com,全局选择
+  - DOMAIN-SUFFIX,tvboxnow.com,全局选择
+  - DOMAIN-SUFFIX,udn.com,全局选择
+  - DOMAIN-SUFFIX,unseen.is,全局选择
+  - DOMAIN-SUFFIX,upmedia.mg,全局选择
+  - DOMAIN-SUFFIX,uptodown.com,全局选择
+  - DOMAIN-SUFFIX,urbandictionary.com,全局选择
+  - DOMAIN-SUFFIX,ustream.tv,全局选择
+  - DOMAIN-SUFFIX,uwants.com,全局选择
+  - DOMAIN-SUFFIX,v2ray.com,全局选择
+  - DOMAIN-SUFFIX,viber.com,全局选择
+  - DOMAIN-SUFFIX,videopress.com,全局选择
+  - DOMAIN-SUFFIX,vimeo.com,全局选择
+  - DOMAIN-SUFFIX,voachinese.com,全局选择
+  - DOMAIN-SUFFIX,voanews.com,全局选择
+  - DOMAIN-SUFFIX,voxer.com,全局选择
+  - DOMAIN-SUFFIX,vzw.com,全局选择
+  - DOMAIN-SUFFIX,w3schools.com,全局选择
+  - DOMAIN-SUFFIX,washingtonpost.com,全局选择
+  - DOMAIN-SUFFIX,wattpad.com,全局选择
+  - DOMAIN-SUFFIX,whoer.net,全局选择
+  - DOMAIN-SUFFIX,wikimapia.org,全局选择
+  - DOMAIN-SUFFIX,wikipedia.org,全局选择
+  - DOMAIN-SUFFIX,wikiquote.org,全局选择
+  - DOMAIN-SUFFIX,wikiwand.com,全局选择
+  - DOMAIN-SUFFIX,winudf.com,全局选择
+  - DOMAIN-SUFFIX,wire.com,全局选择
+  - DOMAIN-SUFFIX,wordpress.com,全局选择
+  - DOMAIN-SUFFIX,workflow.is,全局选择
+  - DOMAIN-SUFFIX,worldcat.org,全局选择
+  - DOMAIN-SUFFIX,wsj.com,全局选择
+  - DOMAIN-SUFFIX,wsj.net,全局选择
+  - DOMAIN-SUFFIX,xhamster.com,全局选择
+  - DOMAIN-SUFFIX,xn--90wwvt03e.com,全局选择
+  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,全局选择
+  - DOMAIN-SUFFIX,xnxx.com,全局选择
+  - DOMAIN-SUFFIX,xvideos.com,全局选择
+  - DOMAIN-SUFFIX,yahoo.com,全局选择
+  - DOMAIN-SUFFIX,yandex.ru,全局选择
+  - DOMAIN-SUFFIX,ycombinator.com,全局选择
+  - DOMAIN-SUFFIX,yesasia.com,全局选择
+  - DOMAIN-SUFFIX,yes-news.com,全局选择
+  - DOMAIN-SUFFIX,yomiuri.co.jp,全局选择
+  - DOMAIN-SUFFIX,you-get.org,全局选择
+  - DOMAIN-SUFFIX,zaobao.com,全局选择
+  - DOMAIN-SUFFIX,zb.com,全局选择
+  - DOMAIN-SUFFIX,zello.com,全局选择
+  - DOMAIN-SUFFIX,zeronet.io,全局选择
+  - DOMAIN-SUFFIX,zoom.us,全局选择
+  - DOMAIN-KEYWORD,github,全局选择
+  - DOMAIN-KEYWORD,jav,全局选择
+  - DOMAIN-KEYWORD,pinterest,全局选择
+  - DOMAIN-KEYWORD,porn,全局选择
+  - DOMAIN-KEYWORD,wikileaks,全局选择
+  - DOMAIN-SUFFIX,apartmentratings.com,全局选择
+  - DOMAIN-SUFFIX,apartments.com,全局选择
+  - DOMAIN-SUFFIX,bankmobilevibe.com,全局选择
+  - DOMAIN-SUFFIX,bing.com,全局选择
+  - DOMAIN-SUFFIX,booktopia.com.au,全局选择
+  - DOMAIN-SUFFIX,cccat.io,全局选择
+  - DOMAIN-SUFFIX,centauro.com.br,全局选择
+  - DOMAIN-SUFFIX,clearsurance.com,全局选择
+  - DOMAIN-SUFFIX,costco.com,全局选择
+  - DOMAIN-SUFFIX,crackle.com,全局选择
+  - DOMAIN-SUFFIX,depositphotos.cn,全局选择
+  - DOMAIN-SUFFIX,dish.com,全局选择
+  - DOMAIN-SUFFIX,dmm.co.jp,全局选择
+  - DOMAIN-SUFFIX,dmm.com,全局选择
+  - DOMAIN-SUFFIX,dnvod.tv,全局选择
+  - DOMAIN-SUFFIX,esurance.com,全局选择
+  - DOMAIN-SUFFIX,extmatrix.com,全局选择
+  - DOMAIN-SUFFIX,fastpic.ru,全局选择
+  - DOMAIN-SUFFIX,flipboard.com,全局选择
+  - DOMAIN-SUFFIX,fnac.be,全局选择
+  - DOMAIN-SUFFIX,fnac.com,全局选择
+  - DOMAIN-SUFFIX,funkyimg.com,全局选择
+  - DOMAIN-SUFFIX,fxnetworks.com,全局选择
+  - DOMAIN-SUFFIX,gettyimages.com,全局选择
+  - DOMAIN-SUFFIX,go.com,全局选择
+  - DOMAIN-SUFFIX,here.com,全局选择
+  - DOMAIN-SUFFIX,jcpenney.com,全局选择
+  - DOMAIN-SUFFIX,jiehua.tv,全局选择
+  - DOMAIN-SUFFIX,mailfence.com,全局选择
+  - DOMAIN-SUFFIX,nationwide.com,全局选择
+  - DOMAIN-SUFFIX,nbc.com,全局选择
+  - DOMAIN-SUFFIX,nexon.com,全局选择
+  - DOMAIN-SUFFIX,nordstrom.com,全局选择
+  - DOMAIN-SUFFIX,nordstromimage.com,全局选择
+  - DOMAIN-SUFFIX,nordstromrack.com,全局选择
+  - DOMAIN-SUFFIX,superpages.com,全局选择
+  - DOMAIN-SUFFIX,target.com,全局选择
+  - DOMAIN-SUFFIX,thinkgeek.com,全局选择
+  - DOMAIN-SUFFIX,tracfone.com,全局选择
+  - DOMAIN-SUFFIX,unity3d.com,全局选择
+  - DOMAIN-SUFFIX,uploader.jp,全局选择
+  - DOMAIN-SUFFIX,vevo.com,全局选择
+  - DOMAIN-SUFFIX,viu.tv,全局选择
+  - DOMAIN-SUFFIX,vk.com,全局选择
+  - DOMAIN-SUFFIX,vsco.co,全局选择
+  - DOMAIN-SUFFIX,xfinity.com,全局选择
+  - DOMAIN-SUFFIX,zattoo.com,全局选择
+  - DOMAIN,testflight.apple.com,全局选择
+  - DOMAIN-SUFFIX,appsto.re,全局选择
+  - DOMAIN,books.itunes.apple.com,全局选择
+  - DOMAIN,hls.itunes.apple.com,全局选择
+  - DOMAIN,apps.apple.com,全局选择
+  - DOMAIN,itunes.apple.com,全局选择
+  - DOMAIN,api-glb-sea.smoot.apple.com,全局选择
+  - DOMAIN,lookup-api.apple.com,全局选择
+  - DOMAIN-SUFFIX,abc.xyz,全局选择
+  - DOMAIN-SUFFIX,android.com,全局选择
+  - DOMAIN-SUFFIX,androidify.com,全局选择
+  - DOMAIN-SUFFIX,dialogflow.com,全局选择
+  - DOMAIN-SUFFIX,autodraw.com,全局选择
+  - DOMAIN-SUFFIX,capitalg.com,全局选择
+  - DOMAIN-SUFFIX,certificate-transparency.org,全局选择
+  - DOMAIN-SUFFIX,chrome.com,全局选择
+  - DOMAIN-SUFFIX,chromeexperiments.com,全局选择
+  - DOMAIN-SUFFIX,chromestatus.com,全局选择
+  - DOMAIN-SUFFIX,chromium.org,全局选择
+  - DOMAIN-SUFFIX,creativelab5.com,全局选择
+  - DOMAIN-SUFFIX,debug.com,全局选择
+  - DOMAIN-SUFFIX,deepmind.com,全局选择
+  - DOMAIN-SUFFIX,firebaseio.com,全局选择
+  - DOMAIN-SUFFIX,getmdl.io,全局选择
+  - DOMAIN-SUFFIX,ggpht.com,全局选择
+  - DOMAIN-SUFFIX,gmail.com,全局选择
+  - DOMAIN-SUFFIX,gmodules.com,全局选择
+  - DOMAIN-SUFFIX,godoc.org,全局选择
+  - DOMAIN-SUFFIX,golang.org,全局选择
+  - DOMAIN-SUFFIX,gstatic.com,全局选择
+  - DOMAIN-SUFFIX,gv.com,全局选择
+  - DOMAIN-SUFFIX,gwtproject.org,全局选择
+  - DOMAIN-SUFFIX,itasoftware.com,全局选择
+  - DOMAIN-SUFFIX,madewithcode.com,全局选择
+  - DOMAIN-SUFFIX,material.io,全局选择
+  - DOMAIN-SUFFIX,polymer-project.org,全局选择
+  - DOMAIN-SUFFIX,admin.recaptcha.net,全局选择
+  - DOMAIN-SUFFIX,recaptcha.net,全局选择
+  - DOMAIN-SUFFIX,shattered.io,全局选择
+  - DOMAIN-SUFFIX,synergyse.com,全局选择
+  - DOMAIN-SUFFIX,tensorflow.org,全局选择
+  - DOMAIN-SUFFIX,tfhub.dev,全局选择
+  - DOMAIN-SUFFIX,tiltbrush.com,全局选择
+  - DOMAIN-SUFFIX,waveprotocol.org,全局选择
+  - DOMAIN-SUFFIX,waymo.com,全局选择
+  - DOMAIN-SUFFIX,webmproject.org,全局选择
+  - DOMAIN-SUFFIX,webrtc.org,全局选择
+  - DOMAIN-SUFFIX,whatbrowser.org,全局选择
+  - DOMAIN-SUFFIX,widevine.com,全局选择
+  - DOMAIN-SUFFIX,x.company,全局选择
+  - DOMAIN-SUFFIX,youtu.be,全局选择
+  - DOMAIN-SUFFIX,yt.be,全局选择
+  - DOMAIN-SUFFIX,ytimg.com,全局选择
+  - DOMAIN-SUFFIX,1drv.com,全局选择
+  - DOMAIN-SUFFIX,1drv.ms,全局选择
+  - DOMAIN-SUFFIX,blob.core.windows.net,全局选择
+  - DOMAIN-SUFFIX,livefilestore.com,全局选择
+  - DOMAIN-SUFFIX,onedrive.com,全局选择
+  - DOMAIN-SUFFIX,storage.live.com,全局选择
+  - DOMAIN-SUFFIX,storage.msn.com,全局选择
+  - DOMAIN,oneclient.sfx.ms,全局选择
+  - DOMAIN-SUFFIX,0rz.tw,全局选择
+  - DOMAIN-SUFFIX,4bluestones.biz,全局选择
+  - DOMAIN-SUFFIX,9bis.net,全局选择
+  - DOMAIN-SUFFIX,allconnected.co,全局选择
+  - DOMAIN-SUFFIX,aol.com,全局选择
+  - DOMAIN-SUFFIX,bcc.com.tw,全局选择
+  - DOMAIN-SUFFIX,bit.ly,全局选择
+  - DOMAIN-SUFFIX,bitshare.com,全局选择
+  - DOMAIN-SUFFIX,blog.jp,全局选择
+  - DOMAIN-SUFFIX,blogimg.jp,全局选择
+  - DOMAIN-SUFFIX,blogtd.org,全局选择
+  - DOMAIN-SUFFIX,broadcast.co.nz,全局选择
+  - DOMAIN-SUFFIX,camfrog.com,全局选择
+  - DOMAIN-SUFFIX,cfos.de,全局选择
+  - DOMAIN-SUFFIX,citypopulation.de,全局选择
+  - DOMAIN-SUFFIX,cloudfront.net,全局选择
+  - DOMAIN-SUFFIX,ctitv.com.tw,全局选择
+  - DOMAIN-SUFFIX,cuhk.edu.hk,全局选择
+  - DOMAIN-SUFFIX,cusu.hk,全局选择
+  - DOMAIN-SUFFIX,discord.gg,全局选择
+  - DOMAIN-SUFFIX,discuss.com.hk,全局选择
+  - DOMAIN-SUFFIX,dropboxapi.com,全局选择
+  - DOMAIN-SUFFIX,duolingo.cn,全局选择
+  - DOMAIN-SUFFIX,edditstatic.com,全局选择
+  - DOMAIN-SUFFIX,flickriver.com,全局选择
+  - DOMAIN-SUFFIX,focustaiwan.tw,全局选择
+  - DOMAIN-SUFFIX,全局选择.fr,全局选择
+  - DOMAIN-SUFFIX,gigacircle.com,全局选择
+  - DOMAIN-SUFFIX,hk-pub.com,全局选择
+  - DOMAIN-SUFFIX,hosting.co.uk,全局选择
+  - DOMAIN-SUFFIX,hwcdn.net,全局选择
+  - DOMAIN-SUFFIX,ifixit.com,全局选择
+  - DOMAIN-SUFFIX,iphone4hongkong.com,全局选择
+  - DOMAIN-SUFFIX,iphonetaiwan.org,全局选择
+  - DOMAIN-SUFFIX,iptvbin.com,全局选择
+  - DOMAIN-SUFFIX,linksalpha.com,全局选择
+  - DOMAIN-SUFFIX,manyvids.com,全局选择
+  - DOMAIN-SUFFIX,myactimes.com,全局选择
+  - DOMAIN-SUFFIX,newsblur.com,全局选择
+  - DOMAIN-SUFFIX,now.im,全局选择
+  - DOMAIN-SUFFIX,nowe.com,全局选择
+  - DOMAIN-SUFFIX,redditlist.com,全局选择
+  - DOMAIN-SUFFIX,s3.amazonaws.com,全局选择
+  - DOMAIN-SUFFIX,signal.org,全局选择
+  - DOMAIN-SUFFIX,smartmailcloud.com,全局选择
+  - DOMAIN-SUFFIX,sparknotes.com,全局选择
+  - DOMAIN-SUFFIX,streetvoice.com,全局选择
+  - DOMAIN-SUFFIX,supertop.co,全局选择
+  - DOMAIN-SUFFIX,tv.com,全局选择
+  - DOMAIN-SUFFIX,typepad.com,全局选择
+  - DOMAIN-SUFFIX,udnbkk.com,全局选择
+  - DOMAIN-SUFFIX,urbanairship.com,全局选择
+  - DOMAIN-SUFFIX,whispersystems.org,全局选择
+  - DOMAIN-SUFFIX,wikia.com,全局选择
+  - DOMAIN-SUFFIX,wn.com,全局选择
+  - DOMAIN-SUFFIX,wolframalpha.com,全局选择
+  - DOMAIN-SUFFIX,x-art.com,全局选择
+  - DOMAIN-SUFFIX,yimg.com,全局选择
+  - DOMAIN,api.steampowered.com,全局选择
+  - DOMAIN,store.steampowered.com,全局选择
+  - DOMAIN-SUFFIX,aaplimg.com,DIRECT
+  - DOMAIN-SUFFIX,apple.co,DIRECT
+  - DOMAIN-SUFFIX,apple.com,DIRECT
+  - DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+  - DOMAIN-SUFFIX,appstore.com,DIRECT
+  - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+  - DOMAIN-SUFFIX,crashlytics.com,DIRECT
+  - DOMAIN-SUFFIX,icloud.com,DIRECT
+  - DOMAIN-SUFFIX,icloud-content.com,DIRECT
+  - DOMAIN-SUFFIX,me.com,DIRECT
+  - DOMAIN-SUFFIX,mzstatic.com,DIRECT
+  - DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,t.me,全局选择
+  - DOMAIN-SUFFIX,tdesktop.com,全局选择
+  - DOMAIN-SUFFIX,telegra.ph,全局选择
+  - DOMAIN-SUFFIX,telegram.me,全局选择
+  - DOMAIN-SUFFIX,telegram.org,全局选择
+  - IP-CIDR,91.108.4.0/22,全局选择,
+  - IP-CIDR,91.108.8.0/22,全局选择,
+  - IP-CIDR,91.108.12.0/22,全局选择,
+  - IP-CIDR,91.108.16.0/22,全局选择,
+  - IP-CIDR,91.108.56.0/22,全局选择,
+  - IP-CIDR,149.154.160.0/20,全局选择,
+  - IP-CIDR6,2001:b28:f23d::/48,全局选择,
+  - IP-CIDR6,2001:b28:f23f::/48,全局选择,
+  - IP-CIDR6,2001:67c:4e8::/48,全局选择,
+  - DOMAIN-SUFFIX,googlevideo.com,全局选择
+  - DOMAIN-SUFFIX,youtube.com,全局选择
+  - DOMAIN,youtubei.googleapis.com,全局选择
+  - DOMAIN-SUFFIX,netflix.com,全局选择
+  - DOMAIN-SUFFIX,netflix.net,全局选择
+  - DOMAIN-SUFFIX,nflxext.com,全局选择
+  - DOMAIN-SUFFIX,nflximg.com,全局选择
+  - DOMAIN-SUFFIX,nflximg.net,全局选择
+  - DOMAIN-SUFFIX,nflxso.net,全局选择
+  - DOMAIN-SUFFIX,nflxvideo.net,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest0.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest1.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest2.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest3.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest4.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest5.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest6.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest7.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest8.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest9.com,全局选择
+  - IP-CIDR,23.246.0.0/18,全局选择,
+  - IP-CIDR,37.77.184.0/21,全局选择,
+  - IP-CIDR,45.57.0.0/17,全局选择,
+  - IP-CIDR,64.120.128.0/17,全局选择,
+  - IP-CIDR,66.197.128.0/17,全局选择,
+  - IP-CIDR,108.175.32.0/20,全局选择,
+  - IP-CIDR,192.173.64.0/18,全局选择,
+  - IP-CIDR,198.38.96.0/19,全局选择,
+  - IP-CIDR,198.45.48.0/20,全局选择,
+  - DOMAIN-SUFFIX,deezer.com,全局选择
+  - DOMAIN-SUFFIX,dzcdn.net,全局选择
+  - DOMAIN-SUFFIX,kkbox.com,全局选择
+  - DOMAIN-SUFFIX,kkbox.com.tw,全局选择
+  - DOMAIN-SUFFIX,kfs.io,全局选择
+  - DOMAIN-SUFFIX,joox.com,全局选择
+  - DOMAIN-SUFFIX,pandora.com,全局选择
+  - DOMAIN-SUFFIX,p-cdn.us,全局选择
+  - DOMAIN-SUFFIX,sndcdn.com,全局选择
+  - DOMAIN-SUFFIX,soundcloud.com,全局选择
+  - DOMAIN-SUFFIX,pscdn.co,全局选择
+  - DOMAIN-SUFFIX,scdn.co,全局选择
+  - DOMAIN-SUFFIX,spotify.com,全局选择
+  - DOMAIN-SUFFIX,spoti.fi,全局选择
+  - DOMAIN-KEYWORD,spotify.com,全局选择
+  - DOMAIN-KEYWORD,-spotify-com,全局选择
+  - DOMAIN-SUFFIX,tidal.com,全局选择
+  - DOMAIN-SUFFIX,c4assets.com,全局选择
+  - DOMAIN-SUFFIX,channel4.com,全局选择
+  - DOMAIN-SUFFIX,abema.io,全局选择
+  - DOMAIN-SUFFIX,ameba.jp,全局选择
+  - DOMAIN-SUFFIX,abema.tv,全局选择
+  - DOMAIN-SUFFIX,hayabusa.io,全局选择
+  - DOMAIN,abematv.akamaized.net,全局选择
+  - DOMAIN,ds-linear-abematv.akamaized.net,全局选择
+  - DOMAIN,ds-vod-abematv.akamaized.net,全局选择
+  - DOMAIN,linear-abematv.akamaized.net,全局选择
+  - DOMAIN-SUFFIX,aiv-cdn.net,全局选择
+  - DOMAIN-SUFFIX,aiv-delivery.net,全局选择
+  - DOMAIN-SUFFIX,amazonvideo.com,全局选择
+  - DOMAIN-SUFFIX,primevideo.com,全局选择
+  - DOMAIN,avodmp4s3ww-a.akamaihd.net,全局选择
+  - DOMAIN,d25xi40x97liuc.cloudfront.net,全局选择
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,全局选择
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,全局选择
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,全局选择
+  - DOMAIN-KEYWORD,avoddashs,全局选择
+  - DOMAIN-SUFFIX,bahamut.com.tw,全局选择
+  - DOMAIN-SUFFIX,gamer.com.tw,全局选择
+  - DOMAIN,gamer-cds.cdn.hinet.net,全局选择
+  - DOMAIN,gamer2-cds.cdn.hinet.net,全局选择
+  - DOMAIN-SUFFIX,bbc.co.uk,全局选择
+  - DOMAIN-SUFFIX,bbci.co.uk,全局选择
+  - DOMAIN-KEYWORD,bbcfmt,全局选择
+  - DOMAIN-KEYWORD,uk-live,全局选择
+  - DOMAIN-SUFFIX,dazn.com,全局选择
+  - DOMAIN-SUFFIX,dazn-api.com,全局选择
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net,全局选择
+  - DOMAIN-KEYWORD,voddazn,全局选择
+  - DOMAIN-SUFFIX,bamgrid.com,全局选择
+  - DOMAIN-SUFFIX,disney-plus.net,全局选择
+  - DOMAIN-SUFFIX,disneyplus.com,全局选择
+  - DOMAIN-SUFFIX,dssott.com,全局选择
+  - DOMAIN,cdn.registerdisney.go.com,全局选择
+  - DOMAIN-SUFFIX,encoretvb.com,全局选择
+  - DOMAIN,edge.api.brightcove.com,全局选择
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net,全局选择
+  - DOMAIN-SUFFIX,fox.com,全局选择
+  - DOMAIN-SUFFIX,foxdcg.com,全局选择
+  - DOMAIN-SUFFIX,theplatform.com,全局选择
+  - DOMAIN-SUFFIX,uplynk.com,全局选择
+  - DOMAIN-SUFFIX,hbo.com,全局选择
+  - DOMAIN-SUFFIX,hbogo.com,全局选择
+  - DOMAIN-SUFFIX,hbonow.com,全局选择
+  - DOMAIN-SUFFIX,hbogoasia.com,全局选择
+  - DOMAIN-SUFFIX,hbogoasia.hk,全局选择
+  - DOMAIN,bcbolthboa-a.akamaihd.net,全局选择
+  - DOMAIN,players.brightcove.net,全局选择
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com,全局选择
+  - DOMAIN,dai3fd1oh325y.cloudfront.net,全局选择
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,全局选择
+  - DOMAIN,hboasia1-i.akamaihd.net,全局选择
+  - DOMAIN,hboasia2-i.akamaihd.net,全局选择
+  - DOMAIN,hboasia3-i.akamaihd.net,全局选择
+  - DOMAIN,hboasia4-i.akamaihd.net,全局选择
+  - DOMAIN,hboasia5-i.akamaihd.net,全局选择
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,全局选择
+  - DOMAIN-SUFFIX,5itv.tv,全局选择
+  - DOMAIN-SUFFIX,ocnttv.com,全局选择
+  - DOMAIN-SUFFIX,hulu.com,全局选择
+  - DOMAIN-SUFFIX,huluim.com,全局选择
+  - DOMAIN-SUFFIX,hulustream.com,全局选择
+  - DOMAIN-SUFFIX,happyon.jp,全局选择
+  - DOMAIN-SUFFIX,hulu.jp,全局选择
+  - DOMAIN-SUFFIX,itv.com,全局选择
+  - DOMAIN-SUFFIX,itvstatic.com,全局选择
+  - DOMAIN,itvpnpmobile-a.akamaihd.net,全局选择
+  - DOMAIN-SUFFIX,kktv.com.tw,全局选择
+  - DOMAIN-SUFFIX,kktv.me,全局选择
+  - DOMAIN,kktv-theater.kk.stream,全局选择
+  - DOMAIN-SUFFIX,linetv.tw,全局选择
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,全局选择
+  - DOMAIN-SUFFIX,litv.tv,全局选择
+  - DOMAIN,litv全局选择mobile-hichannel.cdn.hinet.net,全局选择
+  - DOMAIN-SUFFIX,channel5.com,全局选择
+  - DOMAIN-SUFFIX,my5.tv,全局选择
+  - DOMAIN,d349g9zuie06uo.cloudfront.net,全局选择
+  - DOMAIN-SUFFIX,mytvsuper.com,全局选择
+  - DOMAIN-SUFFIX,tvb.com,全局选择
+  - DOMAIN-SUFFIX,netflix.com,全局选择
+  - DOMAIN-SUFFIX,netflix.net,全局选择
+  - DOMAIN-SUFFIX,nflxext.com,全局选择
+  - DOMAIN-SUFFIX,nflximg.com,全局选择
+  - DOMAIN-SUFFIX,nflximg.net,全局选择
+  - DOMAIN-SUFFIX,nflxso.net,全局选择
+  - DOMAIN-SUFFIX,nflxvideo.net,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest0.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest1.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest2.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest3.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest4.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest5.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest6.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest7.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest8.com,全局选择
+  - DOMAIN-SUFFIX,netflixdnstest9.com,全局选择
+  - IP-CIDR,23.246.0.0/18,全局选择,
+  - IP-CIDR,37.77.184.0/21,全局选择,
+  - IP-CIDR,45.57.0.0/17,全局选择,
+  - IP-CIDR,64.120.128.0/17,全局选择,
+  - IP-CIDR,66.197.128.0/17,全局选择,
+  - IP-CIDR,108.175.32.0/20,全局选择,
+  - IP-CIDR,192.173.64.0/18,全局选择,
+  - IP-CIDR,198.38.96.0/19,全局选择,
+  - IP-CIDR,198.45.48.0/20,全局选择,
+  - DOMAIN-SUFFIX,dmc.nico,全局选择
+  - DOMAIN-SUFFIX,nicovideo.jp,全局选择
+  - DOMAIN-SUFFIX,nimg.jp,全局选择
+  - DOMAIN-SUFFIX,socdm.com,全局选择
+  - DOMAIN-SUFFIX,pbs.org,全局选择
+  - DOMAIN-SUFFIX,phncdn.com,全局选择
+  - DOMAIN-SUFFIX,pornhub.com,全局选择
+  - DOMAIN-SUFFIX,pornhubpremium.com,全局选择
+  - DOMAIN-SUFFIX,skyking.com.tw,全局选择
+  - DOMAIN,hamifans.emome.net,全局选择
+  - DOMAIN-SUFFIX,twitch.tv,全局选择
+  - DOMAIN-SUFFIX,twitchcdn.net,全局选择
+  - DOMAIN-SUFFIX,ttvnw.net,全局选择
+  - DOMAIN-SUFFIX,jtvnw.net,全局选择
+  - DOMAIN-SUFFIX,viu.com,全局选择
+  - DOMAIN-SUFFIX,viu.tv,全局选择
+  - DOMAIN,api.viu.now.com,全局选择
+  - DOMAIN,d1k2us671qcoau.cloudfront.net,全局选择
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,全局选择
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net,全局选择
+  - DOMAIN-SUFFIX,googlevideo.com,全局选择
+  - DOMAIN-SUFFIX,youtube.com,全局选择
+  - DOMAIN,youtubei.googleapis.com,全局选择
+  - DOMAIN-SUFFIX,biliapi.com,DIRECT
+  - DOMAIN-SUFFIX,biliapi.net,DIRECT
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT
+  - DOMAIN-SUFFIX,bilibili.tv,DIRECT
+  - DOMAIN-SUFFIX,bilivideo.com,DIRECT
+  - DOMAIN-SUFFIX,local,DIRECT
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+  - IP-CIDR6,fd00::/8,DIRECT,no-resolve
+  - DOMAIN,app.adjust.com,DIRECT
+  - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+  - DOMAIN,dl.google.com,DIRECT
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,livew.l.qq.com,DIRECT
+  - DOMAIN,vd.l.qq.com,DIRECT
+  - DOMAIN,analytics.strava.com,DIRECT
+  - DOMAIN,msg.umeng.com,DIRECT
+  - DOMAIN,msg.umengcloud.com,DIRECT
+  - DOMAIN-SUFFIX,qhres.com,DIRECT
+  - DOMAIN-SUFFIX,qhimg.com,DIRECT
+  - DOMAIN-SUFFIX,akadns.net,DIRECT
+  - DOMAIN-SUFFIX,alibaba.com,DIRECT
+  - DOMAIN-SUFFIX,alicdn.com,DIRECT
+  - DOMAIN-SUFFIX,alikunlun.com,DIRECT
+  - DOMAIN-SUFFIX,alipay.com,DIRECT
+  - DOMAIN-SUFFIX,amap.com,DIRECT
+  - DOMAIN-SUFFIX,autonavi.com,DIRECT
+  - DOMAIN-SUFFIX,dingtalk.com,DIRECT
+  - DOMAIN-SUFFIX,mxhichina.com,DIRECT
+  - DOMAIN-SUFFIX,soku.com,DIRECT
+  - DOMAIN-SUFFIX,taobao.com,DIRECT
+  - DOMAIN-SUFFIX,tmall.com,DIRECT
+  - DOMAIN-SUFFIX,tmall.hk,DIRECT
+  - DOMAIN-SUFFIX,ykimg.com,DIRECT
+  - DOMAIN-SUFFIX,youku.com,DIRECT
+  - DOMAIN-SUFFIX,xiami.com,DIRECT
+  - DOMAIN-SUFFIX,xiami.net,DIRECT
+  - DOMAIN-SUFFIX,aaplimg.com,DIRECT
+  - DOMAIN-SUFFIX,apple.co,DIRECT
+  - DOMAIN-SUFFIX,apple.com,DIRECT
+  - DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+  - DOMAIN-SUFFIX,appstore.com,DIRECT
+  - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+  - DOMAIN-SUFFIX,crashlytics.com,DIRECT
+  - DOMAIN-SUFFIX,icloud.com,DIRECT
+  - DOMAIN-SUFFIX,icloud-content.com,DIRECT
+  - DOMAIN-SUFFIX,me.com,DIRECT
+  - DOMAIN-SUFFIX,mzstatic.com,DIRECT
+  - DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidubcr.com,DIRECT
+  - DOMAIN-SUFFIX,bdstatic.com,DIRECT
+  - DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
+  - DOMAIN-SUFFIX,acgvideo.com,DIRECT
+  - DOMAIN-SUFFIX,hdslb.com,DIRECT
+  - DOMAIN-SUFFIX,blizzard.com,DIRECT
+  - DOMAIN-SUFFIX,battle.net,DIRECT
+  - DOMAIN,blzddist1-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,feiliao.com,DIRECT
+  - DOMAIN-SUFFIX,pstatp.com,DIRECT
+  - DOMAIN-SUFFIX,snssdk.com,DIRECT
+  - DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+  - DOMAIN-SUFFIX,toutiao.com,DIRECT
+  - DOMAIN-SUFFIX,cctv.com,DIRECT
+  - DOMAIN-SUFFIX,cctvpic.com,DIRECT
+  - DOMAIN-SUFFIX,livechina.com,DIRECT
+  - DOMAIN-SUFFIX,didialift.com,DIRECT
+  - DOMAIN-SUFFIX,didiglobal.com,DIRECT
+  - DOMAIN-SUFFIX,udache.com,DIRECT
+  - DOMAIN-SUFFIX,343480.com,DIRECT
+  - DOMAIN-SUFFIX,baduziyuan.com,DIRECT
+  - DOMAIN-SUFFIX,com-hs-hkdy.com,DIRECT
+  - DOMAIN-SUFFIX,czybjz.com,DIRECT
+  - DOMAIN-SUFFIX,dandanzan.com,DIRECT
+  - DOMAIN-SUFFIX,fjhps.com,DIRECT
+  - DOMAIN-SUFFIX,kuyunbo.club,DIRECT
+  - DOMAIN-SUFFIX,21cn.com,DIRECT
+  - DOMAIN-SUFFIX,hitv.com,DIRECT
+  - DOMAIN-SUFFIX,mgtv.com,DIRECT
+  - DOMAIN-SUFFIX,iqiyi.com,DIRECT
+  - DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+  - DOMAIN-SUFFIX,71.am.com,DIRECT
+  - DOMAIN-SUFFIX,jd.com,DIRECT
+  - DOMAIN-SUFFIX,jd.hk,DIRECT
+  - DOMAIN-SUFFIX,jdpay.com,DIRECT
+  - DOMAIN-SUFFIX,360buyimg.com,DIRECT
+  - DOMAIN-SUFFIX,iciba.com,DIRECT
+  - DOMAIN-SUFFIX,ksosoft.com,DIRECT
+  - DOMAIN-SUFFIX,meitu.com,DIRECT
+  - DOMAIN-SUFFIX,meitudata.com,DIRECT
+  - DOMAIN-SUFFIX,meitustat.com,DIRECT
+  - DOMAIN-SUFFIX,meipai.com,DIRECT
+  - DOMAIN-SUFFIX,duokan.com,DIRECT
+  - DOMAIN-SUFFIX,mi-img.com,DIRECT
+  - DOMAIN-SUFFIX,miui.com,DIRECT
+  - DOMAIN-SUFFIX,miwifi.com,DIRECT
+  - DOMAIN-SUFFIX,xiaomi.com,DIRECT
+  - DOMAIN-SUFFIX,microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,msecnd.net,DIRECT
+  - DOMAIN-SUFFIX,office365.com,DIRECT
+  - DOMAIN-SUFFIX,outlook.com,DIRECT
+  - DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,visualstudio.com,DIRECT
+  - DOMAIN-SUFFIX,windows.com,DIRECT
+  - DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+  - DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
+  - DOMAIN-SUFFIX,163.com,DIRECT
+  - DOMAIN-SUFFIX,126.net,DIRECT
+  - DOMAIN-SUFFIX,127.net,DIRECT
+  - DOMAIN-SUFFIX,163yun.com,DIRECT
+  - DOMAIN-SUFFIX,lofter.com,DIRECT
+  - DOMAIN-SUFFIX,netease.com,DIRECT
+  - DOMAIN-SUFFIX,ydstatic.com,DIRECT
+  - DOMAIN-SUFFIX,sina.com,DIRECT
+  - DOMAIN-SUFFIX,weibo.com,DIRECT
+  - DOMAIN-SUFFIX,weibocdn.com,DIRECT
+  - DOMAIN-SUFFIX,sohu.com,DIRECT
+  - DOMAIN-SUFFIX,sohucs.com,DIRECT
+  - DOMAIN-SUFFIX,sohu-inc.com,DIRECT
+  - DOMAIN-SUFFIX,v-56.com,DIRECT
+  - DOMAIN-SUFFIX,sogo.com,DIRECT
+  - DOMAIN-SUFFIX,sogou.com,DIRECT
+  - DOMAIN-SUFFIX,sogoucdn.com,DIRECT
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,steam-chat.com,DIRECT
+  - DOMAIN-SUFFIX,steamgames.com,DIRECT
+  - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,steamstat.us,DIRECT
+  - DOMAIN-SUFFIX,gtimg.com,DIRECT
+  - DOMAIN-SUFFIX,idqqimg.com,DIRECT
+  - DOMAIN-SUFFIX,igamecj.com,DIRECT
+  - DOMAIN-SUFFIX,myapp.com,DIRECT
+  - DOMAIN-SUFFIX,myqcloud.com,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+  - DOMAIN-SUFFIX,tencent.com,DIRECT
+  - DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+  - DOMAIN-SUFFIX,jstucdn.com,DIRECT
+  - DOMAIN-SUFFIX,zimuzu.io,DIRECT
+  - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+  - DOMAIN-SUFFIX,zmz2019.com,DIRECT
+  - DOMAIN-SUFFIX,zmzapi.com,DIRECT
+  - DOMAIN-SUFFIX,zmzapi.net,DIRECT
+  - DOMAIN-SUFFIX,zmzfile.com,DIRECT
+  - DOMAIN-SUFFIX,ccgslb.com,DIRECT
+  - DOMAIN-SUFFIX,ccgslb.net,DIRECT
+  - DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
+  - DOMAIN-SUFFIX,meixincdn.com,DIRECT
+  - DOMAIN-SUFFIX,ourdvs.com,DIRECT
+  - DOMAIN-SUFFIX,staticdn.net,DIRECT
+  - DOMAIN-SUFFIX,wangsu.com,DIRECT
+  - DOMAIN-SUFFIX,ipip.net,DIRECT
+  - DOMAIN-SUFFIX,ip.la,DIRECT
+  - DOMAIN-SUFFIX,ip-cdn.com,DIRECT
+  - DOMAIN-SUFFIX,ipv6-test.com,DIRECT
+  - DOMAIN-SUFFIX,test-ipv6.com,DIRECT
+  - DOMAIN-SUFFIX,whatismyip.com,DIRECT
+  - DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
+  - DOMAIN,speedtest.macpaw.com,DIRECT
+  - DOMAIN-SUFFIX,awesome-hd.me,DIRECT
+  - DOMAIN-SUFFIX,broadcasthe.net,DIRECT
+  - DOMAIN-SUFFIX,chdbits.co,DIRECT
+  - DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
+  - DOMAIN-SUFFIX,empornium.me,DIRECT
+  - DOMAIN-SUFFIX,gazellegames.net,DIRECT
+  - DOMAIN-SUFFIX,hdchina.org,DIRECT
+  - DOMAIN-SUFFIX,hdsky.me,DIRECT
+  - DOMAIN-SUFFIX,icetorrent.org,DIRECT
+  - DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
+  - DOMAIN-SUFFIX,keepfrds.com,DIRECT
+  - DOMAIN-SUFFIX,madsrevolution.net,DIRECT
+  - DOMAIN-SUFFIX,m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+  - DOMAIN-SUFFIX,ncore.cc,DIRECT
+  - DOMAIN-SUFFIX,open.cd,DIRECT
+  - DOMAIN-SUFFIX,ourbits.club,DIRECT
+  - DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
+  - DOMAIN-SUFFIX,privatehd.to,DIRECT
+  - DOMAIN-SUFFIX,redacted.ch,DIRECT
+  - DOMAIN-SUFFIX,springsunday.net,DIRECT
+  - DOMAIN-SUFFIX,tjupt.org,DIRECT
+  - DOMAIN-SUFFIX,totheglory.im,DIRECT
+  - DOMAIN-SUFFIX,acm.org,DIRECT
+  - DOMAIN-SUFFIX,acs.org,DIRECT
+  - DOMAIN-SUFFIX,aip.org,DIRECT
+  - DOMAIN-SUFFIX,ams.org,DIRECT
+  - DOMAIN-SUFFIX,annualreviews.org,DIRECT
+  - DOMAIN-SUFFIX,aps.org,DIRECT
+  - DOMAIN-SUFFIX,ascelibrary.org,DIRECT
+  - DOMAIN-SUFFIX,asm.org,DIRECT
+  - DOMAIN-SUFFIX,asme.org,DIRECT
+  - DOMAIN-SUFFIX,astm.org,DIRECT
+  - DOMAIN-SUFFIX,bmj.com,DIRECT
+  - DOMAIN-SUFFIX,cambridge.org,DIRECT
+  - DOMAIN-SUFFIX,cas.org,DIRECT
+  - DOMAIN-SUFFIX,clarivate.com,DIRECT
+  - DOMAIN-SUFFIX,ebscohost.com,DIRECT
+  - DOMAIN-SUFFIX,emerald.com,DIRECT
+  - DOMAIN-SUFFIX,engineeringvillage.com,DIRECT
+  - DOMAIN-SUFFIX,icevirtuallibrary.com,DIRECT
+  - DOMAIN-SUFFIX,ieee.org,DIRECT
+  - DOMAIN-SUFFIX,imf.org,DIRECT
+  - DOMAIN-SUFFIX,iop.org,DIRECT
+  - DOMAIN-SUFFIX,jamanetwork.com,DIRECT
+  - DOMAIN-SUFFIX,jhu.edu,DIRECT
+  - DOMAIN-SUFFIX,jstor.org,DIRECT
+  - DOMAIN-SUFFIX,karger.com,DIRECT
+  - DOMAIN-SUFFIX,libguides.com,DIRECT
+  - DOMAIN-SUFFIX,madsrevolution.net,DIRECT
+  - DOMAIN-SUFFIX,mpg.de,DIRECT
+  - DOMAIN-SUFFIX,myilibrary.com,DIRECT
+  - DOMAIN-SUFFIX,nature.com,DIRECT
+  - DOMAIN-SUFFIX,oecd-ilibrary.org,DIRECT
+  - DOMAIN-SUFFIX,osapublishing.org,DIRECT
+  - DOMAIN-SUFFIX,oup.com,DIRECT
+  - DOMAIN-SUFFIX,ovid.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordartonline.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordbibliographies.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordmusiconline.com,DIRECT
+  - DOMAIN-SUFFIX,pnas.org,DIRECT
+  - DOMAIN-SUFFIX,proquest.com,DIRECT
+  - DOMAIN-SUFFIX,rsc.org,DIRECT
+  - DOMAIN-SUFFIX,sagepub.com,DIRECT
+  - DOMAIN-SUFFIX,sciencedirect.com,DIRECT
+  - DOMAIN-SUFFIX,sciencemag.org,DIRECT
+  - DOMAIN-SUFFIX,scopus.com,DIRECT
+  - DOMAIN-SUFFIX,siam.org,DIRECT
+  - DOMAIN-SUFFIX,spiedigitallibrary.org,DIRECT
+  - DOMAIN-SUFFIX,springer.com,DIRECT
+  - DOMAIN-SUFFIX,springerlink.com,DIRECT
+  - DOMAIN-SUFFIX,tandfonline.com,DIRECT
+  - DOMAIN-SUFFIX,un.org,DIRECT
+  - DOMAIN-SUFFIX,uni-bielefeld.de,DIRECT
+  - DOMAIN-SUFFIX,webofknowledge.com,DIRECT
+  - DOMAIN-SUFFIX,westlaw.com,DIRECT
+  - DOMAIN-SUFFIX,wiley.com,DIRECT
+  - DOMAIN-SUFFIX,worldbank.org,DIRECT
+  - DOMAIN-SUFFIX,worldscientific.com,DIRECT
+  - DOMAIN-SUFFIX,cn,DIRECT
+  - DOMAIN-SUFFIX,360in.com,DIRECT
+  - DOMAIN-SUFFIX,51ym.me,DIRECT
+  - DOMAIN-SUFFIX,8686c.com,DIRECT
+  - DOMAIN-SUFFIX,abchina.com,DIRECT
+  - DOMAIN-SUFFIX,accuweather.com,DIRECT
+  - DOMAIN-SUFFIX,aicoinstorge.com,DIRECT
+  - DOMAIN-SUFFIX,air-matters.com,DIRECT
+  - DOMAIN-SUFFIX,air-matters.io,DIRECT
+  - DOMAIN-SUFFIX,aixifan.com,DIRECT
+  - DOMAIN-SUFFIX,amd.com,DIRECT
+  - DOMAIN-SUFFIX,b612.net,DIRECT
+  - DOMAIN-SUFFIX,bdatu.com,DIRECT
+  - DOMAIN-SUFFIX,beitaichufang.com,DIRECT
+  - DOMAIN-SUFFIX,bjango.com,DIRECT
+  - DOMAIN-SUFFIX,booking.com,DIRECT
+  - DOMAIN-SUFFIX,bstatic.com,DIRECT
+  - DOMAIN-SUFFIX,cailianpress.com,DIRECT
+  - DOMAIN-SUFFIX,camera360.com,DIRECT
+  - DOMAIN-SUFFIX,chinaso.com,DIRECT
+  - DOMAIN-SUFFIX,chua.pro,DIRECT
+  - DOMAIN-SUFFIX,chuimg.com,DIRECT
+  - DOMAIN-SUFFIX,chunyu.mobi,DIRECT
+  - DOMAIN-SUFFIX,chushou.tv,DIRECT
+  - DOMAIN-SUFFIX,cmbchina.com,DIRECT
+  - DOMAIN-SUFFIX,cmbimg.com,DIRECT
+  - DOMAIN-SUFFIX,ctrip.com,DIRECT
+  - DOMAIN-SUFFIX,dfcfw.com,DIRECT
+  - DOMAIN-SUFFIX,docschina.org,DIRECT
+  - DOMAIN-SUFFIX,douban.com,DIRECT
+  - DOMAIN-SUFFIX,doubanio.com,DIRECT
+  - DOMAIN-SUFFIX,douyu.com,DIRECT
+  - DOMAIN-SUFFIX,dxycdn.com,DIRECT
+  - DOMAIN-SUFFIX,dytt8.net,DIRECT
+  - DOMAIN-SUFFIX,eastmoney.com,DIRECT
+  - DOMAIN-SUFFIX,eudic.net,DIRECT
+  - DOMAIN-SUFFIX,feng.com,DIRECT
+  - DOMAIN-SUFFIX,fengkongcloud.com,DIRECT
+  - DOMAIN-SUFFIX,frdic.com,DIRECT
+  - DOMAIN-SUFFIX,futu5.com,DIRECT
+  - DOMAIN-SUFFIX,futunn.com,DIRECT
+  - DOMAIN-SUFFIX,gandi.net,DIRECT
+  - DOMAIN-SUFFIX,geilicdn.com,DIRECT
+  - DOMAIN-SUFFIX,getpricetag.com,DIRECT
+  - DOMAIN-SUFFIX,gifshow.com,DIRECT
+  - DOMAIN-SUFFIX,godic.net,DIRECT
+  - DOMAIN-SUFFIX,hicloud.com,DIRECT
+  - DOMAIN-SUFFIX,hongxiu.com,DIRECT
+  - DOMAIN-SUFFIX,hostbuf.com,DIRECT
+  - DOMAIN-SUFFIX,huxiucdn.com,DIRECT
+  - DOMAIN-SUFFIX,huya.com,DIRECT
+  - DOMAIN-SUFFIX,infinitynewtab.com,DIRECT
+  - DOMAIN-SUFFIX,ithome.com,DIRECT
+  - DOMAIN-SUFFIX,java.com,DIRECT
+  - DOMAIN-SUFFIX,jidian.im,DIRECT
+  - DOMAIN-SUFFIX,kaiyanapp.com,DIRECT
+  - DOMAIN-SUFFIX,kaspersky-labs.com,DIRECT
+  - DOMAIN-SUFFIX,keepcdn.com,DIRECT
+  - DOMAIN-SUFFIX,kkmh.com,DIRECT
+  - DOMAIN-SUFFIX,licdn.com,DIRECT
+  - DOMAIN-SUFFIX,linkedin.com,DIRECT
+  - DOMAIN-SUFFIX,loli.net,DIRECT
+  - DOMAIN-SUFFIX,luojilab.com,DIRECT
+  - DOMAIN-SUFFIX,maoyan.com,DIRECT
+  - DOMAIN-SUFFIX,maoyun.tv,DIRECT
+  - DOMAIN-SUFFIX,meituan.com,DIRECT
+  - DOMAIN-SUFFIX,meituan.net,DIRECT
+  - DOMAIN-SUFFIX,mobike.com,DIRECT
+  - DOMAIN-SUFFIX,moke.com,DIRECT
+  - DOMAIN-SUFFIX,mubu.com,DIRECT
+  - DOMAIN-SUFFIX,myzaker.com,DIRECT
+  - DOMAIN-SUFFIX,nim-lang-cn.org,DIRECT
+  - DOMAIN-SUFFIX,nvidia.com,DIRECT
+  - DOMAIN-SUFFIX,oracle.com,DIRECT
+  - DOMAIN-SUFFIX,paypal.com,DIRECT
+  - DOMAIN-SUFFIX,paypalobjects.com,DIRECT
+  - DOMAIN-SUFFIX,qdaily.com,DIRECT
+  - DOMAIN-SUFFIX,qidian.com,DIRECT
+  - DOMAIN-SUFFIX,qyer.com,DIRECT
+  - DOMAIN-SUFFIX,qyerstatic.com,DIRECT
+  - DOMAIN-SUFFIX,raychase.net,DIRECT
+  - DOMAIN-SUFFIX,ronghub.com,DIRECT
+  - DOMAIN-SUFFIX,ruguoapp.com,DIRECT
+  - DOMAIN-SUFFIX,s-reader.com,DIRECT
+  - DOMAIN-SUFFIX,sankuai.com,DIRECT
+  - DOMAIN-SUFFIX,scomper.me,DIRECT
+  - DOMAIN-SUFFIX,seafile.com,DIRECT
+  - DOMAIN-SUFFIX,sm.ms,DIRECT
+  - DOMAIN-SUFFIX,smzdm.com,DIRECT
+  - DOMAIN-SUFFIX,snapdrop.net,DIRECT
+  - DOMAIN-SUFFIX,snwx.com,DIRECT
+  - DOMAIN-SUFFIX,sspai.com,DIRECT
+  - DOMAIN-SUFFIX,takungpao.com,DIRECT
+  - DOMAIN-SUFFIX,teamviewer.com,DIRECT
+  - DOMAIN-SUFFIX,tianyancha.com,DIRECT
+  - DOMAIN-SUFFIX,udacity.com,DIRECT
+  - DOMAIN-SUFFIX,uning.com,DIRECT
+  - DOMAIN-SUFFIX,vmware.com,DIRECT
+  - DOMAIN-SUFFIX,weather.com,DIRECT
+  - DOMAIN-SUFFIX,weico.cc,DIRECT
+  - DOMAIN-SUFFIX,weidian.com,DIRECT
+  - DOMAIN-SUFFIX,xiachufang.com,DIRECT
+  - DOMAIN-SUFFIX,ximalaya.com,DIRECT
+  - DOMAIN-SUFFIX,xinhuanet.com,DIRECT
+  - DOMAIN-SUFFIX,xmcdn.com,DIRECT
+  - DOMAIN-SUFFIX,yangkeduo.com,DIRECT
+  - DOMAIN-SUFFIX,zhangzishi.cc,DIRECT
+  - DOMAIN-SUFFIX,zhihu.com,DIRECT
+  - DOMAIN-SUFFIX,zhimg.com,DIRECT
+  - DOMAIN-SUFFIX,zhuihd.com,DIRECT
+  - DOMAIN,download.jetbrains.com,DIRECT
+  - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
+  - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT
+  - MATCH,全局选择
